@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#ed641b" />
+    <meta
+      name="description"
+      content="PrepMed Insano: questões de neuro, endócrino, otorrino e oftalmo. Treine por assunto, compare respostas e acompanhe seu progresso."
+    />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <title>PrepMed Insano — seu próximo rodízio começa aqui</title>
+    <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="module" src="./js/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Pular para o conteúdo</a>
+    <header class="site-header">
+      <div class="container nav">
+        <a href="#" class="brand" aria-label="PrepMed Insano — início"
+          ><span class="brand-mark" aria-hidden="true">P<span>+</span></span
+          ><span>PrepMed <b>Insano</b></span></a
+        >
+        <nav aria-label="Navegação principal">
+          <a href="#banco">Banco de questões</a
+          ><a href="#progresso">Meu progresso</a
+          ><a href="#admin" class="nav-admin"
+            >Administração <span aria-hidden="true">↗</span></a
+          >
+        </nav>
+      </div>
+    </header>
+    <main id="main" tabindex="-1">
+      <div class="container loading">
+        <span class="spinner" aria-hidden="true"></span>
+        <h1>Preparando seu banco de questões…</h1>
+        <p>Neuro, endócrino, otorrino e oftalmo, em um só lugar.</p>
+      </div>
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <span class="brand-small">PrepMed <b>Insano.</b></span
+        ><span>Feito para estudar junto. M3 & M4.</span
+        ><button id="about-button" class="text-button" type="button">
+          Sobre o banco
+        </button>
+      </div>
+    </footer>
+    <dialog id="modal" aria-labelledby="modal-title"></dialog>
+    <dialog
+      id="image-modal"
+      aria-label="Imagem da questão em tamanho ampliado"
+    ></dialog>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <noscript
+      ><p>
+        Ative o JavaScript para filtrar as questões e fazer os treinos.
+      </p></noscript
+    >
+  </body>
+</html>

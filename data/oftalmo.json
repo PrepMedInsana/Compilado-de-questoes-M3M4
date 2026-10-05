@@ -1,0 +1,4517 @@
+[
+  {
+    "uid": "F03Q21",
+    "id": "OFT008",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual o sinal característico da retinopatia diabética fase não proliferativa grave?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Micro hemorragias"
+      },
+      {
+        "label": "B",
+        "text": "Micro aneurismas"
+      },
+      {
+        "label": "C",
+        "text": "Áreas de má perfusão"
+      },
+      {
+        "label": "D",
+        "text": "Neovasos"
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "21",
+        "pages": [
+          4
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q22",
+    "id": "OFT028",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual a conduta em um paciente portador de úlcera de córnea bacteriana?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Colírio de corticoide."
+      },
+      {
+        "label": "B",
+        "text": "Colírio de antibiótico."
+      },
+      {
+        "label": "C",
+        "text": "Transplante de córnea."
+      },
+      {
+        "label": "D",
+        "text": "Cultura de esfregaço corneano e colírio fortificado de antibióticos."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "22",
+        "pages": [
+          4
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q23",
+    "id": "OFT017",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual é a complicação mais frequente em pacientes que usam colírios de corticoide por tempo\nprolongado?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ceratite punctata."
+      },
+      {
+        "label": "B",
+        "text": "Úlcera de córnea."
+      },
+      {
+        "label": "C",
+        "text": "Glaucoma secundário."
+      },
+      {
+        "label": "D",
+        "text": "Descolamento de retina"
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "23",
+        "pages": [
+          4
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q24",
+    "id": "OFT029",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Em pacientes com secreção mucosa, de início há um dia, hiperemia conjuntival, gânglio pré-auricular\no diagnóstico mais provável é:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Conjuntivite bacteriana."
+      },
+      {
+        "label": "B",
+        "text": "Conjuntivite virótica."
+      },
+      {
+        "label": "C",
+        "text": "Uveíte anterior."
+      },
+      {
+        "label": "D",
+        "text": "Conjuntivite alérgica."
+      }
+    ],
+    "images": [],
+    "answer": "B",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "24",
+        "pages": [
+          4
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q25",
+    "id": "OFT009",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual é o tratamento de escolha em paciente com retinopatia diabética fase proliferativa sem hemorragia\nvítrea?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Observação."
+      },
+      {
+        "label": "B",
+        "text": "Controle de diabetes."
+      },
+      {
+        "label": "C",
+        "text": "Fotocoagulação com raios laser."
+      },
+      {
+        "label": "D",
+        "text": "Vitrectomia via pars plana."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "25",
+        "pages": [
+          4,
+          5
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q26",
+    "id": "OFT018",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual é a causa da perda irreversível do campo visual em um paciente portador de glaucoma de ângulo\naberto?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Presença de catarata."
+      },
+      {
+        "label": "B",
+        "text": "Morte das células ganglionares da retina."
+      },
+      {
+        "label": "C",
+        "text": "Opacificação da córnea."
+      },
+      {
+        "label": "D",
+        "text": "Descolamento vítreo."
+      }
+    ],
+    "images": [],
+    "answer": "B",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "26",
+        "pages": [
+          5
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q27",
+    "id": "OFT030",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual a camada córnea que em um traumatismo não provoca opacificação da mesma?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Camada das células epiteliais."
+      },
+      {
+        "label": "B",
+        "text": "Estroma do estroma superficial."
+      },
+      {
+        "label": "C",
+        "text": "Estroma profundo."
+      },
+      {
+        "label": "D",
+        "text": "Camada de células endoteliais."
+      }
+    ],
+    "images": [],
+    "answer": "A",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "27",
+        "pages": [
+          5
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q28",
+    "id": "OFT001",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual a causa mais comum de baixa da acuidade visual nos países mais desenvolvidos em pacientes\nacima de 65 anos?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Retinopatia diabética."
+      },
+      {
+        "label": "B",
+        "text": "Catarata senil."
+      },
+      {
+        "label": "C",
+        "text": "Descolamento de retina."
+      },
+      {
+        "label": "D",
+        "text": "Degeneração macular relacionada à idade."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "28",
+        "pages": [
+          5
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q29",
+    "id": "OFT031",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Diante de um recém-nascido com conjuntivite, que se caracteriza pelas seguintes características (uma\nconjuntivite de inclusão neonatal, que geralmente aparece 5 a 14 dias após o nascimento como uma conjuntivite papilar\nbilateral intensa, com edema palpebral, secreção mucopurulenta, unilateral e acentuada conjuntivite folicular.\nGeralmente ocorre opacificação corneana superior com vascularização. Os linfonodos pré-auriculares podem estar\ninflamados no lado do olho comprometido). Diante de um caso como este, que exames devem ser solicitados para\ncaracterizar o possível agente etiológico?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pesquisa de neisseria na bacterioscopia pelo gram da secreção."
+      },
+      {
+        "label": "B",
+        "text": "Pesquisa de treponema pelo fontana tribondeau."
+      },
+      {
+        "label": "C",
+        "text": "Cultura da secreção para microorganismos microaerófilos e aerófilos."
+      },
+      {
+        "label": "D",
+        "text": "Pesquisa da Chlamydia trachomatis (inclusão na citologia pelo papanicolau, IFD para chlamydia e PCR para Chlamydia trachomatis)."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "29",
+        "pages": [
+          5
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q35",
+    "id": "OFT010",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "CASO CLÍNICO 1: Criança, 5 anos, levada ao consultório pelos pais, com queixa de uma mancha\nbranca no olho esquerdo. Exame físico: leucocoria fotoinduzida em olho esquerdo, pústula em região palpebral superior\ndireita, próxima aos cílios. RM: massa intraocular heterogênea, com áreas de necrose, hemorragia e calcificações.\n\nCASO CLÍNICO 2: Homem, 25 anos, refere diminuição da acuidade visual, dor ocular, episódios de\ncefaleia. Usa lentes convergentes para correção de distúrbio de refração. Fundoscopia: disco óptico com contorno\nduplicado, diminuição da nitidez da mácula. As principais hipóteses diagnósticas para os casos são:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Paciente 1: melanoma uveal; hordéolo / Paciente 2: presbiopia; glaucoma de ângulo aberto"
+      },
+      {
+        "label": "B",
+        "text": "Paciente 1: melanoma uveal; calázio / Paciente 2: astigmatismo; degeneração corneana"
+      },
+      {
+        "label": "C",
+        "text": "Paciente 1: retinoblastoma; calázio / Paciente 2: miopia; episclerite"
+      },
+      {
+        "label": "D",
+        "text": "Paciente 1: retinoblastoma; hordéolo / Paciente 2: hipermetropia; glaucoma de ângulo fechado"
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "34 e 35",
+        "pages": [
+          6,
+          7
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q43",
+    "id": "OFT019",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Paciente sexo feminino, 65 anos, branca, hipermétrope, procura pronto-socorro geral com queixa de\nbaixa visual, dor ocular importante com irradiação para o couro cabeludo, vômitos, fotofobia e lacrimejamento leve há\n2 horas. Qual o diagnóstico mais provável:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "iridociclite aguda."
+      },
+      {
+        "label": "B",
+        "text": "conjuntivite folicular aguda."
+      },
+      {
+        "label": "C",
+        "text": "queimadura por solda elétrica."
+      },
+      {
+        "label": "D",
+        "text": "Glaucoma agudo."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "43",
+        "pages": [
+          7,
+          8
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q44",
+    "id": "OFT011",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "Em relação a retinopatia diabética (RD) assinale a alternativa correta:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pacientes com DM tipo II apresentam retinopatia diabética (RD) mais frequentemente e em formas mais graves que os pacientes com DM tipo I."
+      },
+      {
+        "label": "B",
+        "text": "O sinal mais precoce da RD é a presença de microaneurismas."
+      },
+      {
+        "label": "C",
+        "text": "A RD configura como a principal causa de cegueira em maiores de 60 anos em países desenvolvidos."
+      },
+      {
+        "label": "D",
+        "text": "Hábitos como tabagismo e etilismo não são fatores de risco adicionais ao desenvolvimento da RD."
+      }
+    ],
+    "images": [],
+    "answer": "B",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "44",
+        "pages": [
+          8
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q46",
+    "id": "OFT032",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Os nervos da córnea:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Apresentam disposição entrelaçada formando uma rede dispostas por todo o estroma posterior."
+      },
+      {
+        "label": "B",
+        "text": "São derivados do VII nervo craniano."
+      },
+      {
+        "label": "C",
+        "text": "Emitem inúmeras terminações nervosas livres no epitélio."
+      },
+      {
+        "label": "D",
+        "text": "São em pequeno número."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "46",
+        "pages": [
+          8
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q48",
+    "id": "OFT033",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Paciente do sexo feminino apresenta um quadro de conjuntivite purulenta grave no olho direito,\napresentando edema palpebral severo, acompanhado de inchaço no tecido que cobre a pálpebra e a superfície do\nolho(quemose) e secreção purulenta abundante, que apareceu cerca de 24 horas após contato sexual. Diante deste\ncaso e da hipótese cínica correta que deve ser feita nestas condições, que exames devem ser solicitados para\ncaracterizar o possível agente etiológico (escolha a melhor opção)?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "CULTURA DA SECREÇÃO PARA MICROORGANISMOS MICROAERÓFILOS E AERÓFILOS."
+      },
+      {
+        "label": "B",
+        "text": "PESQUISA DE NEISSERIA NA BACTERIOSCOPIA PELO GRAM DA SECREÇÃO, CULTURA PARA NEISSERIA (EM THAYER-MARTIN) E/OU REACAO EM CADEIA DA POLIMERASE EM TEMPO REAL PARA Neisseria gonorrhoeae ."
+      },
+      {
+        "label": "C",
+        "text": "PESQUISA DE TREPONEMA PELO FONTANA TRIBONDEAU."
+      },
+      {
+        "label": "D",
+        "text": "PESQUISA DE Chlamydia trachomatis (IFD PARA CHLAMYDIA E/OU PCR PARA Chlamydia trachomatis."
+      }
+    ],
+    "images": [],
+    "answer": "B",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "48",
+        "pages": [
+          8
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q52",
+    "id": "OFT058",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Refração estrabismo e catarata",
+    "chapter": "",
+    "oral": false,
+    "stem": "Paciente sexo masculino, 16 anos de idade, que apresenta ao exame refracional, astigmatismo e\nmiopia progressivos não consegue boa acuidade visual com óculos. Qual diagnostico e a conduta terapêutica mais\nadequada?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Miopia progressiva e cirurgia refrativa."
+      },
+      {
+        "label": "B",
+        "text": "Ceratite puntata e uso de colírio de corticoide."
+      },
+      {
+        "label": "C",
+        "text": "Ceratocone e uso de lentes de contato gelatinosa."
+      },
+      {
+        "label": "D",
+        "text": "Ceratocone e uso de lentes de contato rígidas."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "52",
+        "pages": [
+          9
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q54",
+    "id": "OFT034",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Paciente do sexo feminino apresenta um quadro de conjuntivite purulenta grave no olho direito,\napresentando edema palpebral severo, acompanhado de inchaço no tecido que cobre a pálpebra e a superfície do olho\n(quemose) e secreção purulenta abundante, que apareceu cerca de 3 dias após contato sexual. Qual a melhor hipótese\nclínica para essa condição?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "CONJUNTIVITE BACTERIANA NÃO GONOCÓCICA DO ADULTO (por coliformes, stafilococcos,etc)."
+      },
+      {
+        "label": "B",
+        "text": "TRACOMA (Conjuntivite Granular)."
+      },
+      {
+        "label": "C",
+        "text": "SÍFILIS."
+      },
+      {
+        "label": "D",
+        "text": "CONJUNTIVITE GONOCÓCICA DO ADULTO."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "54",
+        "pages": [
+          9
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q87",
+    "id": "OFT035",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Em relação à córnea, podemos afirmar:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Comporta-se como espelho côncavo."
+      },
+      {
+        "label": "B",
+        "text": "Seu poder refrativo é de aproximadamente 12D."
+      },
+      {
+        "label": "C",
+        "text": "A sua disposição ordenada regularmente das fibrilas colágenas é responsável por permitir a passagem da luz visível."
+      },
+      {
+        "label": "D",
+        "text": "Consiste num tecido vascular e transparente."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "87",
+        "pages": [
+          14
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q88",
+    "id": "OFT020",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Fazem parte, obrigatoriamente, da definição de glaucoma:\nI.\nneuropatia óptica.\nII.\naumento da pressão ocular.\nIII.\nalteração de campo visual.\nIV.\nalteração do ângulo da câmara anterior.\nA alternativa que contempla a definição correta é:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "I, III e IV"
+      },
+      {
+        "label": "B",
+        "text": "II, II e IV."
+      },
+      {
+        "label": "C",
+        "text": "I e lll."
+      },
+      {
+        "label": "D",
+        "text": "todos os acima."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "88",
+        "pages": [
+          14
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q89",
+    "id": "OFT002",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "O nervo óptico é formado por axônios de que neurônio retiniano? Sua sinapse se dá em que local?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "célula ganglionar / córtex occipital."
+      },
+      {
+        "label": "B",
+        "text": "célula bipolar / corpo geniculado lateral."
+      },
+      {
+        "label": "C",
+        "text": "célula ganglionar / tálamo."
+      },
+      {
+        "label": "D",
+        "text": "fotorreceptores / quiasma óptico."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "89",
+        "pages": [
+          14
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q90",
+    "id": "OFT021",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual o fluxo normal do humor aquoso, desde sua produção até a sua drenagem?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Corpo ciliar → câmara posterior → pupila → câmara anterior → trabeculado → canal de Schlemm."
+      },
+      {
+        "label": "B",
+        "text": "Processos ciliares → câmara vítrea → câmara posterior → pupila → canal de Goldmann → trabeculado."
+      },
+      {
+        "label": "C",
+        "text": "Corpo ciliar → câmara posterior → pupila → câmara anterior → trabeculado → canal de Schlemm."
+      },
+      {
+        "label": "D",
+        "text": "Processos ciliares → câmara posterior → pupila → câmara anterior → trabeculado → canal de Goldmann."
+      }
+    ],
+    "images": [],
+    "answer": "A",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "90",
+        "pages": [
+          14
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q91",
+    "id": "OFT003",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "Em relação ao acompanhamento de pacientes com DM tipos I e II, assinale a alternativa correta quanto\nao rastreamento e acompanhamento:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Indica-se o rastreamento da RD em pacientes com DM tipo I no momento do diagnóstico e caso não apresente sinais de RD acompanhamento anual."
+      },
+      {
+        "label": "B",
+        "text": "Indica-se o rastreamento da RD em pacientes com DM tipo Il no momento do diagnóstico e caso não apresente sinais de RD acompanhamento anual."
+      },
+      {
+        "label": "C",
+        "text": "Indica-se o rastreamento da RD em pacientes com DM tipo I no momento do diagnóstico e caso apresente sinais de RD não proliferativa leve reavaliação em 6-12 meses."
+      },
+      {
+        "label": "D",
+        "text": "Indica-se o rastreamento da RD em pacientes com DM tipo II no momento do diagnóstico e caso apresente sinais de RD não proliferativa leve reavaliação em 4 meses."
+      }
+    ],
+    "images": [],
+    "answer": "B",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "91",
+        "pages": [
+          14,
+          15
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q92",
+    "id": "OFT036",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Paciente do sexo masculino 39 anos, com olho direito vermelho há um dia. Ao exame apresenta\nhiperemia ocular importante com quemose conjuntival, secreção purulenta abundante e linfadenomegalia pré- auricular\ne submandibular dolorosa. Não havia baixa visual importante exceto a causada pelo excesso de secreção. A conduta\ncorreta frente ao quadro é:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Limpeza com soro fisiológico e antibióticos tópicos."
+      },
+      {
+        "label": "B",
+        "text": "Limpeza com soro fisiológico e colírios de anti-inflamatórios não hormonais."
+      },
+      {
+        "label": "C",
+        "text": "Coleta de secreção para cultura e bacterioscopia, colírios antibióticos tópicos e antibioticoterapia sistêmica."
+      },
+      {
+        "label": "D",
+        "text": "Curativo oclusivo com pomada lubrificante."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "92",
+        "pages": [
+          15
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q93",
+    "id": "OFT022",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Paciente sexo feminino, 65 anos, branca, hipermétrope, procura pronto-socorro geral com queixa de\nbaixa visual, dor ocular importante com irradiação para o couro cabeludo, vômitos, fotofobia e lacrimejamento leve há\n2 horas. Qual o diagnóstico mais provável:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Iridociclite aguda"
+      },
+      {
+        "label": "B",
+        "text": "Glaucoma agudo."
+      },
+      {
+        "label": "C",
+        "text": "Queimadura por solda elétrica."
+      },
+      {
+        "label": "D",
+        "text": "Conjuntivite bacteriana."
+      }
+    ],
+    "images": [],
+    "answer": "B",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "93",
+        "pages": [
+          15
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q94",
+    "id": "OFT037",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Em um paciente com herpes zoster oftálmico, qual afirmativa é falsa?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "É causado pela varicella zoster."
+      },
+      {
+        "label": "B",
+        "text": "O vírus fica armazenado no gânglio gasseriano e caminha pelo nervo trigêmeo."
+      },
+      {
+        "label": "C",
+        "text": "O envolvimento corneano é acompanhado de lesões na ponta e laterais do nariz."
+      },
+      {
+        "label": "D",
+        "text": "Lesões de ceratite puntata podem coalescer para formar úlceras dendríticas semelhantes às do herpes simples."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "94",
+        "pages": [
+          15
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q95",
+    "id": "OFT059",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Refração estrabismo e catarata",
+    "chapter": "",
+    "oral": false,
+    "stem": "O ERRO refrativo mais comum em crianças mais velhas é:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hipermetropia."
+      },
+      {
+        "label": "B",
+        "text": "Miopia"
+      },
+      {
+        "label": "C",
+        "text": "Astigmatismo."
+      },
+      {
+        "label": "D",
+        "text": "Presbiopia."
+      }
+    ],
+    "images": [],
+    "answer": "B",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "95",
+        "pages": [
+          15
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q96",
+    "id": "OFT060",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Refração estrabismo e catarata",
+    "chapter": "",
+    "oral": false,
+    "stem": "Uma criança de 10 anos de idade queixa de cefaleia. Acuidade visual com correção é de 20/100 em\nolho direito e 20/20 em olho esquerdo. Retinoscopia evidencia refração de +5,00D em olho direito e +1,00D em olho\nesquerdo. Biomicroscopia, fundoscopia e motilidade ocular extrínseca estão normais. Qual o diagnóstico mais\nprovável?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "neurite óptica."
+      },
+      {
+        "label": "B",
+        "text": "cegueira cortical"
+      },
+      {
+        "label": "C",
+        "text": "ambliopia."
+      },
+      {
+        "label": "D",
+        "text": "simulação."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "96",
+        "pages": [
+          15
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q106",
+    "id": "OFT012",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "Homem de 62anos de idade apresenta perda de acuidade visual progressiva em olho esquerdo\nhá 4 meses. Foi realizado fundoscopia:\nFotografia do fundo de olho: olho direito (OD) fundo normal, olho esquerdo (OE) infiltrações profundas da retina perto\nda arcada vascular temporal inferior, edema macular, vitrite\nApós estadiamento, que não identificou lesões em outros sítios, foi realizado vitrectomia e material avaliado no serviço\nde Anatomia Patológica.\nAmostras com coloração de Papanicolaou × 600 (A) e coloração de CD20 x 600 (B) demonstrando numerosos células\ngrandes positivas para CD20 com nucléolos proeminentes variável\nBaseado no caso clínico apresentado, marque a alternativa correta:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "O diagnóstico é de melanoma uveal posterior."
+      },
+      {
+        "label": "B",
+        "text": "Esta é uma neoplasia indolente, representando a principal neoplasia primária intraocular em adultos."
+      },
+      {
+        "label": "C",
+        "text": "Esta é uma neoplasia que geralmente apresenta metástase hematogênica, principalmente para pulmões e fígado."
+      },
+      {
+        "label": "D",
+        "text": "Representa neoplasia linfoide de alto grau primária de sítio imunoprivilegiado."
+      }
+    ],
+    "images": [
+      "assets/questions/a77bc0950ddbf72a7ea8ee1d.png",
+      "assets/questions/39292b5d9b9bdfc71b7e2232.png"
+    ],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "106",
+        "pages": [
+          18
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q124",
+    "id": "OFT013",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual o sinal característico da retinopatia diabética fase não proliferativa grave?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Micro Hemorragias"
+      },
+      {
+        "label": "B",
+        "text": "Micro Aneurismas"
+      },
+      {
+        "label": "C",
+        "text": "A má perfusão"
+      },
+      {
+        "label": "D",
+        "text": "Neo vasos retinianos"
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "124",
+        "pages": [
+          21
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q125",
+    "id": "OFT038",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual o tratamento para úlcera de córnea bacteriana?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Colírio corticoide"
+      },
+      {
+        "label": "B",
+        "text": "Colírio antibiótico"
+      },
+      {
+        "label": "C",
+        "text": "Transplante de córnea"
+      },
+      {
+        "label": "D",
+        "text": "Cultura de esfregaçõ + colírio antibiótico"
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "125",
+        "pages": [
+          21
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q126",
+    "id": "OFT023",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Colírio corticoide complicação:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ceratite punctória"
+      },
+      {
+        "label": "B",
+        "text": "Úlcera de córnea"
+      },
+      {
+        "label": "C",
+        "text": "Glaucoma"
+      },
+      {
+        "label": "D",
+        "text": "Deslocamento de retina"
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "126",
+        "pages": [
+          21
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q133",
+    "id": "OFT014",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "(PATO) Mulher, 61 anos, com perda súbita da visão olho esquerdo em seu campo visual. No\nfundoscópio: massa intra-ocular. Exame de imagem: normogeneicidade, sem necrose ou calcificação. Além disso,\nnodulação subpalpebral contralateral, indolor há 1 ano. Punção - aspecto sebáceo do material de saída. Citologia -\nmacrófagos espumosos e células inflamatórias, células gigantes multinucleadas, sem sinal de malignidade. Qual a\ncitologia esperada na massa intra-ocular do olho E e da nodulação subpalpebral contralateral?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Células pigmentadas com atipias importantes e numerosas figuras de mitose + macrófagos espumosos e células atípicas em arranjo glanduliforme"
+      },
+      {
+        "label": "B",
+        "text": "Células pigmentadas com atipias importantes e numerosas figuras de mitose + macrófagos espumosos, células gigantes multinucleadas e infiltrado inflamatório misto"
+      },
+      {
+        "label": "C",
+        "text": "Células pequenas, redondas e azuis, formando roseitoides + macrófagos espumosos, células gigantes multinucleadas e infiltrado inflamatório misto"
+      },
+      {
+        "label": "D",
+        "text": "Células pequenas, redondas e azuis, formando roseitoides + macrófagos espumosos e células atípicas em arranjo glanduliforme"
+      }
+    ],
+    "images": [],
+    "answer": "B",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "133",
+        "pages": [
+          22
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q151",
+    "id": "OFT004",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "Em relação ao acompanhamento do paciente diabético, é incorreto afirmar:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Paciente com DM tipo 2 pode idealmente ser avaliado fundoscopicamente após 5 anos do diagnóstico da doença"
+      },
+      {
+        "label": "B",
+        "text": "Paciente com DM tipo 1pode idealmente ser avaliado tundoscopicamente após 5 anos do diagnóstico da doença"
+      },
+      {
+        "label": "C",
+        "text": "Paciente gestante com diabetes deve ser acompanhada trimestralmente até o final da gestação."
+      },
+      {
+        "label": "D",
+        "text": "Paciente sem retinopatia diabética pode ser acompanhado, por fundoscopia, anualmente."
+      }
+    ],
+    "images": [],
+    "answer": "A",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "151",
+        "pages": [
+          25,
+          26
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q152",
+    "id": "OFT039",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Além da corticoterapia, na primeira linha de tratamento da toxoplasmose ocular ativa deve-se\nusar:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "clindamicina + espiramicina."
+      },
+      {
+        "label": "B",
+        "text": "claritromicina + azitromicina."
+      },
+      {
+        "label": "C",
+        "text": "atovaquone + ácido folínico."
+      },
+      {
+        "label": "D",
+        "text": "pirimetamina + sulfadazima."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "152",
+        "pages": [
+          26
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q153",
+    "id": "OFT040",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Sobre a conjuntivite alérgica, é correto afirmar, EXCETO:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Principal sintoma é coceira."
+      },
+      {
+        "label": "B",
+        "text": "Secreção mucosa."
+      },
+      {
+        "label": "C",
+        "text": "Geralmente bilateral e crônica."
+      },
+      {
+        "label": "D",
+        "text": "Formação de membranas conjuntivais."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "153",
+        "pages": [
+          26
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q154",
+    "id": "OFT061",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Refração estrabismo e catarata",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual achado ao exame será esperado em um paciente com paralisia do músculo oblíquo\nsuperior direito?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Desvio vertical esquerdo sobre direito."
+      },
+      {
+        "label": "B",
+        "text": "Posição compensadora da cabeça com elevação do mento."
+      },
+      {
+        "label": "C",
+        "text": "Melhora do desvio vertical na inclinação da cabeça para a direita."
+      },
+      {
+        "label": "D",
+        "text": "Piora do desvio vertical em levoversão."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "154",
+        "pages": [
+          26
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q155",
+    "id": "OFT041",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "A principal camada responsável pela manutenção da transparência e nutrição da córnea:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Epitélio."
+      },
+      {
+        "label": "B",
+        "text": "Estroma."
+      },
+      {
+        "label": "C",
+        "text": "Endotélio."
+      },
+      {
+        "label": "D",
+        "text": "Membrana de Descemet."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "155",
+        "pages": [
+          26
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q156",
+    "id": "OFT062",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Refração estrabismo e catarata",
+    "chapter": "",
+    "oral": false,
+    "stem": "Marque a afirmação FALSA:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aos 4 anos de idade nossa capacidade acomodativa é maior que 10 dioptrias"
+      },
+      {
+        "label": "B",
+        "text": "Exercícios específicos podem preservar a capacidade acomodativa ao longa da vida, mantendo o músculo ciliar ativo"
+      },
+      {
+        "label": "C",
+        "text": "No emétrope, paciente sem grau, os primeiros sintomas da presbiopia são próximo aos 40 anos de idade."
+      },
+      {
+        "label": "D",
+        "text": "Aos 60 anos perdemos completamente a capacidade de acomodação"
+      }
+    ],
+    "images": [],
+    "answer": "B",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "156",
+        "pages": [
+          26
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q157",
+    "id": "OFT024",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Sobre a relação entre o desenvolvimento do glaucoma e a pressão dos olhos, está CORRETO\nafirmar:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ocorre sempre com a pressão alta dos olhos."
+      },
+      {
+        "label": "B",
+        "text": "Ocorre sempre com a pressão baixa dos olhos."
+      },
+      {
+        "label": "C",
+        "text": "A pressão dos olhos não tem qualquer influência no glaucoma."
+      },
+      {
+        "label": "D",
+        "text": "Pode ocorrer em qualquer nível de pressão dos olhos"
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "157",
+        "pages": [
+          26
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q158",
+    "id": "OFT005",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "O nervo óptico é formado por axônios de que neurônio retiniano? Sua sinapse se dá em que\nlocal?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "célula ganglionar / córtex occipital."
+      },
+      {
+        "label": "B",
+        "text": "célula bipolar / corpo geniculado lateral."
+      },
+      {
+        "label": "C",
+        "text": "célula ganglionar / tálamo"
+      },
+      {
+        "label": "D",
+        "text": "Fotorreceptores / quiasma óptico."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "158",
+        "pages": [
+          26
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      },
+      {
+        "source": "F07",
+        "original": "29",
+        "pages": [
+          4
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q159",
+    "id": "OFT042",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Paciente do sexo feminino, 36 anos, com dor ocular unilateral importante e baixa visual leve há\n2 dias. Ao exame oftalmológico apresentava no olho acometido hiperemia conjuntival 2+, folículos no fórnix inferior,\ncórnea mostrando lesão ulcerada corando-se com fluoresceína e com aspecto dendrítico e ausência de reação de\ncâmara anterior. Paciente referiu histórico de episódios prévios de herpes labial; Qual destes medicamentos tópicos é\ncontraindicado nesse paciente, a essa altura da apresentação dos sintomas?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Colírio de predinisolona 1%"
+      },
+      {
+        "label": "B",
+        "text": "Pomada oftalmológica de aciclovir 3%"
+      },
+      {
+        "label": "C",
+        "text": "Colírio de tropicmida 1%"
+      },
+      {
+        "label": "D",
+        "text": "Colírio de hialuronato de sódio 1%"
+      }
+    ],
+    "images": [],
+    "answer": "A",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "159",
+        "pages": [
+          26,
+          27
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F03Q165",
+    "id": "OFT043",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Paciente do sexo feminino apresenta um quadro de conjuntivite purulenta grave no olho direito\napresentando edema palpebral severo, acompanhado de inchaço no tecido que cobre a pálpebra e a superfície do\nolho(quemose) e secreção purulenta abundante, que apareceu cerca de 3 dias após contato sexual. Qual a melhor\nhipótese clínica para essa condição?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Conjuntivite Bacteriana Não Gonocócica Do Adulto (por coliformes, stafilococcos,etc)."
+      },
+      {
+        "label": "B",
+        "text": "Tracoma (Conjuntivite Granular)."
+      },
+      {
+        "label": "C",
+        "text": "Sifilis."
+      },
+      {
+        "label": "D",
+        "text": "Conjuntivite Gonocócica Do Adulto."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Marcação na compilação dos veteranos",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F03",
+        "original": "165",
+        "pages": [
+          28
+        ],
+        "file": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F07Q21",
+    "id": "OFT044",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual deve ser a primeira conduta diante de queimadura ocular por produto químico ácido ou alcalino?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Encaminhamento imediato à oftalmologia."
+      },
+      {
+        "label": "B",
+        "text": "Antibiótico tópico."
+      },
+      {
+        "label": "C",
+        "text": "Lavagem abundante com água ou soro fisiológico."
+      },
+      {
+        "label": "D",
+        "text": "Substância neutralizadora de pH."
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "Gabarito presente na fonte",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F07",
+        "original": "21",
+        "pages": [
+          3
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      },
+      {
+        "source": "F76",
+        "original": "18",
+        "pages": [
+          1
+        ],
+        "file": "IMG-20261003-WA0069.jpg"
+      },
+      {
+        "source": "F77",
+        "original": "18",
+        "pages": [
+          1
+        ],
+        "file": "IMG-20261003-WA0068.jpg"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F07Q22",
+    "id": "OFT015",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual evento não está envolvido na fisiopatologia da retinopatia diabética?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Perda dos pericitos."
+      },
+      {
+        "label": "B",
+        "text": "Dano endotelial."
+      },
+      {
+        "label": "C",
+        "text": "Diminuição da agregação plaquetária."
+      },
+      {
+        "label": "D",
+        "text": "Espessamento da membrana basal capilar."
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "Gabarito presente na fonte",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F07",
+        "original": "22",
+        "pages": [
+          4
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F07Q23",
+    "id": "OFT025",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Sobre o desenvolvimento de glaucoma e a pressão dos olhos, é correto afirmar:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ocorre sempre com pressão alta."
+      },
+      {
+        "label": "B",
+        "text": "Ocorre sempre com pressão baixa."
+      },
+      {
+        "label": "C",
+        "text": "A pressão não tem qualquer influência."
+      },
+      {
+        "label": "D",
+        "text": "Pode ocorrer em qualquer nível de pressão ocular."
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "Gabarito presente na fonte",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F07",
+        "original": "23",
+        "pages": [
+          4
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F07Q24",
+    "id": "OFT016",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual a principal causa de baixa de acuidade visual na retinopatia diabética?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Edema macular."
+      },
+      {
+        "label": "B",
+        "text": "Hemorragia vítrea."
+      },
+      {
+        "label": "C",
+        "text": "Glaucoma neovascular."
+      },
+      {
+        "label": "D",
+        "text": "Descolamento de retina tracional."
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "Gabarito presente na fonte",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F07",
+        "original": "24",
+        "pages": [
+          4
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F07Q25",
+    "id": "OFT045",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Além da corticoterapia, qual esquema é citado na primeira linha da toxoplasmose ocular ativa?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Clindamicina + espiramicina."
+      },
+      {
+        "label": "B",
+        "text": "Claritromicina + azitromicina."
+      },
+      {
+        "label": "C",
+        "text": "Atovaquona + ácido folínico."
+      },
+      {
+        "label": "D",
+        "text": "Pirimetamina + sulfadiazina."
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "Gabarito presente na fonte",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F07",
+        "original": "25",
+        "pages": [
+          4
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F07Q26",
+    "id": "OFT046",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Sobre conjuntivite alérgica, assinale a exceção:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "O principal sintoma é coceira."
+      },
+      {
+        "label": "B",
+        "text": "Secreção mucosa."
+      },
+      {
+        "label": "C",
+        "text": "Geralmente bilateral e crônica."
+      },
+      {
+        "label": "D",
+        "text": "Formação de membranas conjuntivais."
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "Gabarito presente na fonte",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F07",
+        "original": "26",
+        "pages": [
+          4
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F07Q27",
+    "id": "OFT063",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Refração estrabismo e catarata",
+    "chapter": "",
+    "oral": false,
+    "stem": "Oblíquo inferior, reto superior, reto lateral e oblíquo superior são inervados, respectivamente, pelos nervos:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "IV, IV, VI e III."
+      },
+      {
+        "label": "B",
+        "text": "III, III, VI e IV."
+      },
+      {
+        "label": "C",
+        "text": "III, II, IV e VI."
+      },
+      {
+        "label": "D",
+        "text": "IV, III, VI e III."
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "Gabarito presente na fonte",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F07",
+        "original": "27",
+        "pages": [
+          4
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F07Q28",
+    "id": "OFT026",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Sobre glaucoma primário de ângulo fechado, é correto afirmar:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "É mais comum que o de ângulo aberto."
+      },
+      {
+        "label": "B",
+        "text": "Deve ser sempre tratado com cirurgia."
+      },
+      {
+        "label": "C",
+        "text": "É mais incidente em míopes."
+      },
+      {
+        "label": "D",
+        "text": "É mais frequente em mulheres."
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "Gabarito presente na fonte",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F07",
+        "original": "28",
+        "pages": [
+          4
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F07Q29",
+    "id": "OFT006",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "O nervo óptico é formado por axônios de qual neurônio retiniano e faz sinapse em qual local?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Célula ganglionar / córtex occipital."
+      },
+      {
+        "label": "B",
+        "text": "Célula bipolar / corpo geniculado lateral."
+      },
+      {
+        "label": "C",
+        "text": "Célula ganglionar / tálamo."
+      },
+      {
+        "label": "D",
+        "text": "Fotorreceptores / quiasma óptico."
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "Gabarito presente na fonte",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F07",
+        "original": "29",
+        "pages": [
+          4
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F07Q30",
+    "id": "OFT064",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Refração estrabismo e catarata",
+    "chapter": "",
+    "oral": false,
+    "stem": "Assinale a classificação incorreta de catarata:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Senil."
+      },
+      {
+        "label": "B",
+        "text": "Congênita."
+      },
+      {
+        "label": "C",
+        "text": "Iriana."
+      },
+      {
+        "label": "D",
+        "text": "Traumática."
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "Gabarito presente na fonte",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F07",
+        "original": "30",
+        "pages": [
+          4
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F07Q31",
+    "id": "OFT047",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Recém-nascido com olhos edemaciados, vermelhos e secreção amarelada abundante. Que exames caracterizam o possível agente etiológico?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pesquisa de Neisseria pela bacterioscopia com Gram, cultura em Thayer-Martin ou PCR para Neisseria gonorrhoeae."
+      },
+      {
+        "label": "B",
+        "text": "Pesquisa de treponema pelo Fontana-Tribondeau."
+      },
+      {
+        "label": "C",
+        "text": "Cultura da secreção para microrganismos microaerófilos e aerófilos."
+      },
+      {
+        "label": "D",
+        "text": "[Alternativa D fora do enquadramento da foto.]"
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "Gabarito presente na fonte",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F07",
+        "original": "31",
+        "pages": [
+          4
+        ],
+        "file": "PROVÃO M3 (1).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW1",
+    "id": "OFT065",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "Descreva a anatomia e a fisiologia da formação e drenagem do humor aquoso.",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "O humor aquoso é uma substância incolor presenta na câmara anterior do olho, preenchendo tanto a face anterior do cristalino quanto a posterior da córnea, é majoritariamente feita de água mas apresenta também moléculas de glicose e proteína, à medida que auxilia na nutrição da córnea avascular e do cristalino. O humor aquoso é produzido pelos processos ciliares do corpo ciliar, que realizam uma hiperfiltração do sangue, e é reabsorvido por uma rede trabecular presente no ângulo iridocorneano que drena o líquido para o canal de Schlemm e o seio venoso da esclera. Existe também uma via alternativa de drenagem do humor aquoso denominada via uveoescleral. Essa circulação é constante e o humor aquoso é renovado a cada minuto, disfunções em qualquer etapa podem causar aumento da PiO e alterações patológicas.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [
+      "assets/questions/08b39c22a53538176caee1d7.png"
+    ],
+    "related": [],
+    "reviewNote": "O texto de F30 simplifica a produção como hiperfiltração e afirma renovação a cada minuto. Essas frases foram mantidas como resposta dos veteranos, sem confirmação.",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "1",
+        "pages": [
+          1
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F37",
+        "original": "1",
+        "pages": [
+          1
+        ],
+        "file": "PROVA OFTALMO – TURMA B (67).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "recentes 1",
+        "pages": [
+          1
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW2",
+    "id": "OFT079",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Qual conduta tomar diante de trauma ocular por produto químico? Variante de F32/F35: acidente ocular com soda cáustica; qual deve ser a conduta imediata?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "Deve-se irrigar abundantemente com soro fisiológico ou água por pelo menos 30 minutos, pode-se fazer uso de anestésicos locais (proparacaína 0,5%) para aliviar o sofrimento do paciente. Após a irrigação, os fórnices conjuntivais devem ser examinados por eversão palpebral e limpos com swab. O seguimento depende do grau de lesão, podendo-se fazer uso de ATB, analgésicos, corticoides ou de curativo oclusivo protetor.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "A prioridade é irrigação imediata e abundante; não se deve atrasá-la para obter solução específica. O seguimento farmacológico depende da lesão e da avaliação oftalmológica. Referência: AAO/EyeWiki, lesão química.",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "2",
+        "pages": [
+          1
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F37",
+        "original": "2",
+        "pages": [
+          1
+        ],
+        "file": "PROVA OFTALMO – TURMA B (67).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "recentes 2",
+        "pages": [
+          1
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F35",
+        "original": "4",
+        "pages": [
+          1
+        ],
+        "file": "PROVA OFTALMO TURMA 68C.jpg"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW3",
+    "id": "OFT066",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "Quais músculos são inervados pelo nervo oculomotor?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "Todos menos o oblíquo superior e o reto lateral: reto medial, reto superior/inferior, oblíquo inferior, esfíncter da pupila e levantador da pálpebra. Pacientes com paralisia nesse NC desenvolvem ptose, exotropia, hipotropia e midríase.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "3",
+        "pages": [
+          1,
+          2
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F37",
+        "original": "3",
+        "pages": [
+          1
+        ],
+        "file": "PROVA OFTALMO – TURMA B (67).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "recentes 3",
+        "pages": [
+          1
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW4",
+    "id": "OFT070",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "Quais os achados fundoscópicos mais comuns de retinopatia diabética?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "Na fundoscopia da retinopatia diabética, é possível encontrar inicialmente microaneurismas, hemorragias puntiformes e exsudatos duros. À medida que a doença progride, é possível observar também manchas algodonosas, edema macular, hemorragia em chama de vela (extravasamento de células vermelhas) e neovasos (proliferativa). A resposta manuscrita em F35 acrescenta isquemia macular, hemorragia vítrea e descolamento tracional da retina.",
+    "comment": "",
+    "answerOrigin": "Respostas de veteranos em F30 e F35",
+    "answerImages": [
+      "assets/questions/6666c61b8b4e15da898e10c4.png"
+    ],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "4",
+        "pages": [
+          2
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F37",
+        "original": "4",
+        "pages": [
+          1
+        ],
+        "file": "PROVA OFTALMO – TURMA B (67).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "recentes 4",
+        "pages": [
+          1
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F35",
+        "original": "1",
+        "pages": [
+          1
+        ],
+        "file": "PROVA OFTALMO TURMA 68C.jpg"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW6",
+    "id": "OFT074",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Fale sobre as opções terapêuticas para o glaucoma crônico simples de ângulo aberto.",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "O objetivo primário do tratamento para glaucoma de ângulo aberto é a redução da pressão intraocular. A princípio, para atingi-lo, é feito o uso de medicações tópicas: betabloqueadores (reduz produção de humor aquoso), parassimpaticomiméticos (aumento do escoamento de humor aquoso por contração ciliar), agonistas alfa-adrenérgicos (aumento da reabsorção por via uveoescleral), inibidores da anidrase carbônica e análogos de prostaglandina. Caso haja refratariedade, pode-se abrir mão de técnicas mais invasivas: laser e trabeculectomia.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "6",
+        "pages": [
+          3
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F36",
+        "original": "2",
+        "pages": [
+          1
+        ],
+        "file": "Prova Oftalmo E1.pdf"
+      },
+      {
+        "source": "F33",
+        "original": "anteriores 2",
+        "pages": [
+          2
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW7",
+    "id": "OFT067",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "Paciente de 62 anos queixa-se de diplopia há três dias. Observe a motilidade ocular na figura. Qual é o nervo acometido?",
+    "context": "",
+    "options": [],
+    "images": [
+      "assets/questions/c9b5523f81bcbb5cf1cdd4f8.png"
+    ],
+    "answer": "Paralisia do III nervo => ptose, exotropia, hipotropia e midríase.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "7",
+        "pages": [
+          3
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "anteriores 3",
+        "pages": [
+          2
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW8",
+    "id": "OFT071",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "Quando devemos indicar exame de fundo de olho para pacientes com diabetes mellitus?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "Pacientes com DM tipo 1 devem começar a realizar o exame de fundo de olho anual 5 anos após o diagnóstico, enquanto pacientes com DM tipo 2 devem realizar o exame imediatamente após diagnóstico. A detecção e o tratamento precoce pode previnir cegueira em até 95% dos casos.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "A resposta reproduz o roteiro clássico de rastreio em adultos: DM1 em até cinco anos do início da doença e DM2 ao diagnóstico. Periodicidade posterior depende de achados e controle metabólico; crianças/adolescentes e gestação têm recomendações próprias. Referência: ADA, Standards of Care 2026, seção 12.",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "8",
+        "pages": [
+          3
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F36",
+        "original": "4",
+        "pages": [
+          2
+        ],
+        "file": "Prova Oftalmo E1.pdf"
+      },
+      {
+        "source": "F33",
+        "original": "anteriores 4",
+        "pages": [
+          2
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW9",
+    "id": "OFT068",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "Cite as funções dos músculos oblíquo superior e oblíquo inferior.",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "O músculo oblíquo superior realiza a movimentação ocular inferior, sendo responsável pela abdução e rotação medial. O músculo oblíquo inferior realiza a movimentação ocular superior, sendo responsável pela abdução e rotação lateral",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "Correção pontual: na posição primária, a ação primária do oblíquo superior é intorsão, com depressão e abdução; a do inferior é extorsão, com elevação e abdução. A ação depende da posição ocular; depressão/elevação pelos oblíquos é examinada em adução. F32 inverte a hierarquia das ações. Referência: AAO/EyeWiki, Extraocular Muscles.",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "9",
+        "pages": [
+          3
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "recentes 5",
+        "pages": [
+          1
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F35",
+        "original": "2",
+        "pages": [
+          1
+        ],
+        "file": "PROVA OFTALMO TURMA 68C.jpg"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW10",
+    "id": "OFT080",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Classifique as uveítes quanto à localização anatômica no olho.",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "Uveíte anterior: localizada no segmento anterior do olho, incluindo corpo ciliar. Subtipos incluem irite e iridociclite. Uveíte intermediária: localizada na cavidade vítrea e/ou região da pars plana Uveíte posterior: qualquer forma de retinite, coroidite ou inflamação de disco óptico Panuveíte: inflamação comprometendo estruturas anteriores, intermediárias e posteriores",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "10",
+        "pages": [
+          4
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F35",
+        "original": "3",
+        "pages": [
+          1
+        ],
+        "file": "PROVA OFTALMO TURMA 68C.jpg"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW11",
+    "id": "OFT075",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Como caracterizar o glaucoma congênito primário?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "É uma causa de cegueira irreversível na criança, tendo como causa o desenvolvimento incorreto do sistema de drenagem do olho antes do nascimento (disgenesia angular). A malformação leva ao aumento da pressão intraocular e danificação do nervo óptico, normalmente ambos os olhos são afetados de modo assimétrico. O paciente apresenta sintomas logo após nascer ou até os 3 anos, incluindo: “tríade do glaucoma congênito” (epífora, fotofobia e blefaroespasmo), buftalmo (bebê com olho gigante) e estrias de Haab (linhas horizontais curvilíneas na córnea por ruptura da membrana de Descemet secundária ao edema corneano).",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "A última resposta manuscrita em F35 está cortada/incompleta; foi usada a resposta legível em F30. F32 menciona várias modalidades de tratamento sem diferenciar adequadamente glaucoma congênito de outras formas.",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "11",
+        "pages": [
+          4
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F35",
+        "original": "5",
+        "pages": [
+          1
+        ],
+        "file": "PROVA OFTALMO TURMA 68C.jpg"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW12",
+    "id": "OFT081",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Discorra sobre o diagnóstico diferencial de olho vermelho.",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "Conjuntivite viral (com pródromo gripal, bilateral, secreção aquosa), conjuntivite bacteriana (hiperemia intensa, secreção mucopurulenta, unilateral), ceratoconjuntivite herpética (úlceras dendríticas na fluoresceína), ceratite infecciosa, hiposfagma (ruptura de vasos esclerais), uveíte anterior, abrasão corneana, corpo estranho corneano e laceração ocular.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "12",
+        "pages": [
+          4
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "anteriores 6",
+        "pages": [
+          3
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F39",
+        "original": "2",
+        "pages": [
+          1
+        ],
+        "file": "-Template- Prova Oftalmo B21.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW13",
+    "id": "OFT082",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Paciente de 19 anos, masculino, apresenta prurido ocular e baixa visual progressiva. Observe a biomicroscopia nas imagens. Qual é o diagnóstico?",
+    "context": "",
+    "options": [],
+    "images": [
+      "assets/questions/ffbd91cfab1f295d40f1d273.png"
+    ],
+    "answer": "Ceratocone",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "F30 resume o enunciado como “Paciente assim”. O caso completo e a segunda imagem foram recuperados em F39.",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "13",
+        "pages": [
+          4
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "anteriores 7",
+        "pages": [
+          3
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F39",
+        "original": "3",
+        "pages": [
+          1
+        ],
+        "file": "-Template- Prova Oftalmo B21.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW14",
+    "id": "OFT083",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Diferencie olho seco de ceratocone.",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "O olho seco é uma condição em que o olho perde a capacidade de lubrificar adequadamente a sua superfície, podendo ser causada por deficiência de produção lacrimal ou evaporação excessiva da lágrima. Sintomas incluem fotofobia, sensação de corpo estranho, prurido e olho vermelho. O diagnóstico pode ser feito por fluoresceína e o tratamento se dá por meio de pomadas e lubrificantes. Ceratocone é uma distorção protuberante da córnea que leva à perda da acuidade visual (astigmatismo), à medida que progride a córnea do paciente adquire um aspecto cônico. O tratamento se dá por lentes de contato rígidas, anel estromal e, em casos avançados, transplante de córnea.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "14",
+        "pages": [
+          4,
+          5
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "anteriores 8",
+        "pages": [
+          3
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW15",
+    "id": "OFT072",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "Quais são as opções terapêuticas para um paciente recém-diagnosticado com retinopatia diabética não proliferativa grave?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "É importante orientar sobre controle glicêmico rigoroso e manutenção de níveis pressóricos inferiores a 130x80 mmHg. O tratamento farmacológico deve incluir drogas antiangiogênicas e injeções intravítreas de anti-VEGF. O tratamento cirúrgico é indicado em caso de hemorragia vítrea persistente, descolamento de retina ou edema refratário. Fotocoagulação aqui não é eficaz, pois ainda não está proliferativa.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "Correção pontual: a afirmação de que fotocoagulação não é eficaz antes da fase proliferativa é incorreta. Panfotocoagulação pode ser indicada em alguns casos de RD não proliferativa grave; anti-VEGF é especialmente relevante no edema macular com envolvimento central. Não é tratamento automático de toda RD não proliferativa grave. Referência: ADA, Standards of Care 2026, seção 12.",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "15",
+        "pages": [
+          5
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "anteriores 9",
+        "pages": [
+          4
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F39",
+        "original": "4",
+        "pages": [
+          1
+        ],
+        "file": "-Template- Prova Oftalmo B21.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW16",
+    "id": "OFT073",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Retina e tumores oculares",
+    "chapter": "",
+    "oral": false,
+    "stem": "Escreva o nome do exame apresentado e cite doenças que ele ajuda a diagnosticar.",
+    "context": "",
+    "options": [],
+    "images": [
+      "assets/questions/93476866f054b1b922e68fcc.png"
+    ],
+    "answer": "Tomografia de coerência óptica (OCT), técnica de imagem não invasiva utiliza para visualizar as camadas da retina e do nervo óptico. Utilizada para avaliar degeneração macular relacionada à idade, edema macular diabético, glaucoma, membrana epirretinianas, buracos maculares, edema de cisto macular, descolamento de retina, coroidite serpiginosa, etc.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "16",
+        "pages": [
+          5
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "anteriores 11",
+        "pages": [
+          4
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW17",
+    "id": "OFT084",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Como se formam as sinéquias posteriores?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "As sinéquias posteriores exigem que tenha tido algum tipo de processo inflamatório que causou contato entre a parte anterior do cristalino e a posterior da íris (exsudato ou edema). Normalmente ocorre em processos inflamatórios crônicos e refratários ao tratamento, e pode prejudicar a circulação de aquoso e causar aumento de PiO.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "17",
+        "pages": [
+          5
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW18",
+    "id": "OFT086",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Refração estrabismo e catarata",
+    "chapter": "",
+    "oral": false,
+    "stem": "Quais são os tipos de ambliopia?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "Refracional (incluindo anisometropia e erros de refração não corrigidos), estrábica e por privação visual (por exemplo, catarata congênita). A resposta de F32 explica a privação como ausência de estímulo visual adequado durante o desenvolvimento.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F32; complementada com a lista de F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "F30 atribui a ambliopia por privação à mielinização incorreta do nervo óptico. Essa explicação não foi adotada; a versão mais clara de F32 foi preservada.",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "18",
+        "pages": [
+          5,
+          6
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW19",
+    "id": "OFT087",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Refração estrabismo e catarata",
+    "chapter": "",
+    "oral": false,
+    "stem": "O que é catarata e qual é sua principal forma de tratamento?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "A catarata é marcada pela opacificação do cristalino por um processo oxidativo que leva à degeneração de proteínas e perda de suas propriedades de transparência. É um fenômeno progressivo, de caráter senil e não completamente elucidado, causando perda de acuidade até a cegueira. A única forma de tratamento é cirurgia, sendo a mais utilizada a facectomia por facoemulsificação.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "19",
+        "pages": [
+          6
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW20",
+    "id": "OFT076",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Mulher de 66 anos, hipermétrope, apresenta dor ocular aguda, vômitos e mal-estar. Qual é a principal hipótese diagnóstica e quais são as condutas?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "Epidemiologia e sintomatologia condizentes com glaucoma agudo. A primeira conduta é reduzir imediatamente a pressão intraocular da paciente, que pode ser feito pela infusão venosa de agentes hiperosmóticos como o manitol ou salina (vão “murchar” o olho, muito cuidado com pacientes nefropatas ou cardiopatas). Pode-se usar também inibidores de anidrase carbônica e colírios betabloequadores (dentre as outras classes de medicamentos). Após a saída da crise, deve-se prescrever colírio anti-hipertensivo (timolol) e encaminhar para o oftalmologista para avaliação de cirurgia (nesse caso, iridotomia ou cirurgia filtrante).",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "Correção pontual: suspeita de fechamento angular agudo exige atendimento oftalmológico urgente durante a crise, junto à redução da PIO; não se deve aguardar a resolução para encaminhar. Iridotomia é indicada para resolver bloqueio pupilar quando apropriado. Referência: AAO/EyeWiki, fechamento angular.",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "20",
+        "pages": [
+          6
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW21",
+    "id": "OFT085",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Descreva os sinais e sintomas da conjuntivite alérgica.",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "O paciente com conjuntivite alérgica é atópico, com outros quadros tipicamente alérgicos: asma, rinite e dermatite atópica. Costuma ter certa sazonalidade, piorando no inverno e na primavera (pólen) em países temperados. Paciente apresenta prurido intenso, dermatite por abrasão, hiperemia conjuntival e secreção filamentosa. Podem ser identificadas micropapilas em conjuntiva tarsal e pontos de horner-trantas (depósito de células inflamatórias).",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [
+      "assets/questions/72cb7157d1191c55410aaf3f.png"
+    ],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "21",
+        "pages": [
+          6
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "recentes 6",
+        "pages": [
+          1
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW22",
+    "id": "OFT077",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Escreva o nome do exame apresentado e em qual doença ele é importante para o diagnóstico.",
+    "context": "",
+    "options": [],
+    "images": [
+      "assets/questions/f79b1f4bc16e1c14e2ef9289.png"
+    ],
+    "answer": "Campimetria, importante no diagnóstico de glaucoma.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "22",
+        "pages": [
+          7
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F33",
+        "original": "anteriores 5",
+        "pages": [
+          3
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F39",
+        "original": "1",
+        "pages": [
+          1
+        ],
+        "file": "-Template- Prova Oftalmo B21.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEW5",
+    "id": "OFT048",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "true-false",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Com relação à uveíte provocada por toxoplasmose, marque as afirmações verdadeiras (ou classifique cada uma como V/F).",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "A infecção congênita pode levar à cegueira."
+      },
+      {
+        "label": "B",
+        "text": "A contaminação ocorre por contato direto com secreções de paciente contaminado."
+      },
+      {
+        "label": "C",
+        "text": "É a segunda maior causa de uveíte posterior no Brasil."
+      },
+      {
+        "label": "D",
+        "text": "O tratamento da infecção adquirida é feito com pirimetamina + sulfadiazina e o uso de corticoides deve ser evitado."
+      },
+      {
+        "label": "E",
+        "text": "A lesão retiniana típica da toxoplasmose adquirida consiste em foco retiniano de infecção com placa esbranquiçada exsudativa acompanhado de células vítreas."
+      }
+    ],
+    "images": [],
+    "answer": "V, F, F, F, V",
+    "comment": "",
+    "answerOrigin": "Respostas de veteranos em F30, F32 e F33",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "5",
+        "pages": [
+          2,
+          3
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      },
+      {
+        "source": "F36",
+        "original": "1",
+        "pages": [
+          1
+        ],
+        "file": "Prova Oftalmo E1.pdf"
+      },
+      {
+        "source": "F33",
+        "original": "anteriores 1",
+        "pages": [
+          2
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "tema correspondente",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F36NEW3",
+    "id": "OFT007",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "Paciente de 62 anos queixa-se de diplopia há três dias. Apresenta, ao exame neuroftalmológico, a motilidade ocular mostrada na figura. Qual é o diagnóstico mais provável?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Paralisia do III nervo."
+      },
+      {
+        "label": "B",
+        "text": "Paralisia do IV nervo."
+      },
+      {
+        "label": "C",
+        "text": "Paralisia do VI nervo."
+      },
+      {
+        "label": "D",
+        "text": "Paralisia do VII nervo."
+      },
+      {
+        "label": "E",
+        "text": "Miastenia ocular."
+      }
+    ],
+    "images": [
+      "assets/questions/c9b5523f81bcbb5cf1cdd4f8.png"
+    ],
+    "answer": "A",
+    "comment": "",
+    "answerOrigin": "Resposta correspondente nos relatos F30, F32 e F33",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F36",
+        "original": "3",
+        "pages": [
+          2
+        ],
+        "file": "Prova Oftalmo E1.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F33NEWrecentes 7",
+    "id": "OFT078",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "O que é glaucoma? Quais são as formas de tratamento?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "A fonte descreve glaucoma como neuropatia óptica com dano às fibras nervosas e à papila. Cita colírios que reduzem produção ou aumentam drenagem do humor aquoso, laser e cirurgia, incluindo trabeculectomia.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F33",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F33",
+        "original": "recentes 7",
+        "pages": [
+          1
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "definição e tratamento do glaucoma",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F33NEWanteriores 10",
+    "id": "OFT069",
+    "specialty": "oftalmo",
+    "kind": "discursive",
+    "format": "written",
+    "topic": "Anatomia e semiologia ocular",
+    "chapter": "",
+    "oral": false,
+    "stem": "Quais são as maiores causas de cegueira no Brasil?",
+    "context": "",
+    "options": [],
+    "images": [],
+    "answer": "A resposta da fonte lista catarata senil, glaucoma, retinopatia diabética e degeneração macular relacionada à idade (DMRI). Não apresenta ranking nem dados epidemiológicos.",
+    "comment": "",
+    "answerOrigin": "Resposta de veteranos em F33",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F33",
+        "original": "anteriores 10",
+        "pages": [
+          4
+        ],
+        "file": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+      },
+      {
+        "source": "F32",
+        "original": "causas de cegueira",
+        "pages": [],
+        "file": "respostas oftalmo2.docx"
+      },
+      {
+        "source": "F39",
+        "original": "5",
+        "pages": [
+          1
+        ],
+        "file": "-Template- Prova Oftalmo B21.pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEWextra 1",
+    "id": "OFT049",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "A úlcera de córnea, ou ceratite ulcerosa, é uma emergência oftalmológica. Qual é a principal etiologia lembrada no relato?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trauma contuso limitado à pálpebra."
+      },
+      {
+        "label": "B",
+        "text": "Erro de refração não corrigido."
+      },
+      {
+        "label": "C",
+        "text": "Infecciosa."
+      },
+      {
+        "label": "D",
+        "text": "Distrofia hereditária sem perda epitelial."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Editorial: alternativas reconstruídas",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": true,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "extra 1",
+        "pages": [
+          7
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEWextra 2",
+    "id": "OFT050",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Entre os fatores de risco descritos para ceratite ulcerosa infecciosa, qual foi apontado como principal no relato?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Uso de óculos de leitura."
+      },
+      {
+        "label": "B",
+        "text": "Uso de lentes de contato."
+      },
+      {
+        "label": "C",
+        "text": "Presbiopia isolada."
+      },
+      {
+        "label": "D",
+        "text": "Hipermetropia leve corrigida com óculos."
+      }
+    ],
+    "images": [],
+    "answer": "B",
+    "comment": "",
+    "answerOrigin": "Editorial: alternativas reconstruídas",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": true,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "extra 2",
+        "pages": [
+          7
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEWextra 3",
+    "id": "OFT051",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Soldador de 25 anos retirou momentaneamente o protetor facial e foi atingido por um “flash” da solda no olho direito. Apresenta hiperemia conjuntival e sensação de areia, sem perda de acuidade visual. Antes da avaliação especializada, qual é a conduta inicial mais apropriada?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Avaliar possível corpo estranho/lesão corneana, oferecer medidas de alívio e encaminhar; irrigar se houver contaminante ou partículas superficiais."
+      },
+      {
+        "label": "B",
+        "text": "Prescrever atropina e dispensar a avaliação especializada."
+      },
+      {
+        "label": "C",
+        "text": "Aplicar curativo compressivo e manter colírio anestésico para uso domiciliar contínuo."
+      },
+      {
+        "label": "D",
+        "text": "Iniciar corticoide tópico sem examinar a córnea e liberar para retornar à soldagem."
+      }
+    ],
+    "images": [],
+    "answer": "A",
+    "comment": "",
+    "answerOrigin": "Editorial: alternativas reconstruídas",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "F30 recomenda irrigação com soro e encaminhamento. A alternativa foi ampliada para não confundir exposição UV com queimadura química: fotoceratite recebe tratamento de suporte e requer exclusão de corpo estranho. Referência: AAO/EyeWiki, photokeratitis.",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": true,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "extra 3",
+        "pages": [
+          7
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEWextra 4",
+    "id": "OFT052",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "No primeiro atendimento de um trauma ocular penetrante, qual é a conduta mais adequada?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Comprimir o globo para interromper o sangramento."
+      },
+      {
+        "label": "B",
+        "text": "Retirar na emergência todo corpo estranho que atravesse o globo."
+      },
+      {
+        "label": "C",
+        "text": "Medir a pressão intraocular por aplanação antes de encaminhar."
+      },
+      {
+        "label": "D",
+        "text": "Proteger com escudo rígido sem pressão sobre o globo, evitar manipulação, considerar TC e antibióticos sistêmicos e encaminhar imediatamente ao oftalmologista."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Editorial: alternativas reconstruídas",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "O “curativo não compressivo” do relato foi explicitado como escudo rígido. Referência: AAO/EyeWiki, trauma ocular penetrante.",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": true,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "extra 4",
+        "pages": [
+          8
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEWextra 5",
+    "id": "OFT053",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Homem apresenta há cinco dias hiperemia conjuntival, mais intensa em um olho, folículos na conjuntiva e adenopatia pré-auricular. Qual é o diagnóstico mais provável?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Conjuntivite alérgica."
+      },
+      {
+        "label": "B",
+        "text": "Uveíte anterior aguda."
+      },
+      {
+        "label": "C",
+        "text": "Conjuntivite viral."
+      },
+      {
+        "label": "D",
+        "text": "Conjuntivite bacteriana aguda."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "",
+    "answerOrigin": "Editorial: alternativas reconstruídas",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": true,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "extra 5",
+        "pages": [
+          8
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEWextra 6",
+    "id": "OFT054",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Jovem apresenta há 24 horas ambos os olhos congestos, secreção amarelada, sem adenopatia satélite nem envolvimento corneano, com visão preservada. Qual é o diagnóstico mais provável?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Uveíte anterior aguda."
+      },
+      {
+        "label": "B",
+        "text": "Conjuntivite bacteriana."
+      },
+      {
+        "label": "C",
+        "text": "Conjuntivite viral."
+      },
+      {
+        "label": "D",
+        "text": "Conjuntivite alérgica."
+      }
+    ],
+    "images": [],
+    "answer": "B",
+    "comment": "",
+    "answerOrigin": "Editorial: alternativas reconstruídas",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": true,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "extra 6",
+        "pages": [
+          8
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEWextra 7",
+    "id": "OFT055",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Mulher de 48 anos apresenta dor moderada súbita no olho direito, fotofobia, visão borrada e hiperemia, sem secreção nem trauma. A pupila é miótica, com pouca resposta à luz. Há lesões descamativas no couro cabeludo e cotovelos. Qual é a principal hipótese diagnóstica?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Uveíte anterior aguda."
+      },
+      {
+        "label": "B",
+        "text": "Conjuntivite bacteriana não complicada."
+      },
+      {
+        "label": "C",
+        "text": "Ceratite ulcerativa infecciosa."
+      },
+      {
+        "label": "D",
+        "text": "Fechamento angular agudo."
+      }
+    ],
+    "images": [],
+    "answer": "A",
+    "comment": "",
+    "answerOrigin": "Editorial: alternativas reconstruídas",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": true,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "extra 7",
+        "pages": [
+          8
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEWextra 8",
+    "id": "OFT056",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Homem com espondilite anquilosante e HLA-B27 positivo apresenta queixa oftalmológica. Qual é a manifestação ocular tipicamente associada?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Uveíte posterior granulomatosa exclusivamente bilateral."
+      },
+      {
+        "label": "B",
+        "text": "Conjuntivite purulenta recorrente como manifestação típica."
+      },
+      {
+        "label": "C",
+        "text": "Paralisia isolada do VII nervo."
+      },
+      {
+        "label": "D",
+        "text": "Uveíte anterior aguda, não granulomatosa, geralmente unilateral."
+      }
+    ],
+    "images": [],
+    "answer": "D",
+    "comment": "",
+    "answerOrigin": "Editorial: alternativas reconstruídas",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": true,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "extra 8",
+        "pages": [
+          8
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F30NEWextra glaucoma",
+    "id": "OFT027",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Glaucoma",
+    "chapter": "",
+    "oral": false,
+    "stem": "Na abordagem do glaucoma agudo na emergência, além do encaminhamento urgente ao especialista, o médico pode lançar mão dos seguintes recursos, EXCETO:",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Manitol EV 20%."
+      },
+      {
+        "label": "B",
+        "text": "Acetazolamida."
+      },
+      {
+        "label": "C",
+        "text": "Atropina."
+      },
+      {
+        "label": "D",
+        "text": "Timolol."
+      },
+      {
+        "label": "E",
+        "text": "Pilocarpina."
+      }
+    ],
+    "images": [],
+    "answer": "C",
+    "comment": "A fonte aponta atropina pelo efeito midriático no contexto do fechamento angular. Essa resposta se refere ao quadro agudo descrito, não a toda forma de glaucoma.",
+    "answerOrigin": "Resposta explícita no compilado F30",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F30",
+        "original": "extra glaucoma",
+        "pages": [
+          7
+        ],
+        "file": "Questões antigas Oftalmo (Compilado).pdf"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "uid": "F76PROVAOM319",
+    "id": "OFT057",
+    "specialty": "oftalmo",
+    "kind": "objective",
+    "format": "single",
+    "topic": "Córnea conjuntiva e uveítes",
+    "chapter": "",
+    "oral": false,
+    "stem": "Nas conjuntivites bacterianas, qual conjunto de achados mais típico?",
+    "context": "",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hiperemia conjuntival unilateral, com secreção purulenta, acuidade visual preservada e rápida resposta à medicação tópica."
+      },
+      {
+        "label": "B",
+        "text": "Hiperemia conjuntival bilateral, folículos conjuntivais, secreção aquosa e acuidade visual preservada."
+      },
+      {
+        "label": "C",
+        "text": "Hiperemia conjuntival pericerática, precipitados ceráticos, miose, dor ocular, fotofobia e graus variados de acometimento da acuidade visual."
+      },
+      {
+        "label": "D",
+        "text": "Hiperemia unilateral, folículos conjuntivais, diminuição leve da acuidade visual e presença de alteração corneana ulcerada com aspecto de dendritos."
+      }
+    ],
+    "images": [],
+    "answer": null,
+    "comment": "",
+    "answerOrigin": "",
+    "answerImages": [],
+    "related": [],
+    "reviewNote": "",
+    "reviewCodes": [],
+    "keyConflict": "",
+    "reconstructed": false,
+    "origins": [
+      {
+        "source": "F76",
+        "original": "19",
+        "pages": [
+          1
+        ],
+        "file": "IMG-20261003-WA0069.jpg"
+      },
+      {
+        "source": "F77",
+        "original": "19",
+        "pages": [
+          1
+        ],
+        "file": "IMG-20261003-WA0068.jpg"
+      }
+    ],
+    "enabled": true
+  }
+]

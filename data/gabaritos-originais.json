@@ -1,0 +1,401 @@
+{
+  "keysets": [
+    {
+      "label": "F06 Prova M3 2022 1",
+      "source": "F06",
+      "page": 8,
+      "specialties": [
+        "Neurologia",
+        "Oftalmologia"
+      ],
+      "values": {
+        "1": "C",
+        "2": "C",
+        "3": "B",
+        "4": "D",
+        "5": "B",
+        "6": "C",
+        "7": "D",
+        "8": "A",
+        "9": "B",
+        "10": "B",
+        "11": "B",
+        "12": "B",
+        "13": "C",
+        "14": "B",
+        "15": "C",
+        "16": "B",
+        "17": "A",
+        "18": "A",
+        "19": "D",
+        "20": "A",
+        "21": "D",
+        "22": "B",
+        "23": "C",
+        "24": "C",
+        "25": "A",
+        "26": "A",
+        "27": "A",
+        "28": "D",
+        "29": "A",
+        "30": "C",
+        "31": "B",
+        "32": "C",
+        "33": "D",
+        "34": "C",
+        "35": "D",
+        "36": "D",
+        "37": "A",
+        "38": "C",
+        "39": "D",
+        "40": "B"
+      }
+    },
+    {
+      "label": "F12 Prova M3",
+      "source": "F12",
+      "page": 8,
+      "specialties": [
+        "Neurologia",
+        "Oftalmologia"
+      ],
+      "values": {
+        "1": "D",
+        "2": "B",
+        "3": "A",
+        "4": "C",
+        "5": "B",
+        "6": "B",
+        "7": "D",
+        "8": "C",
+        "9": "D",
+        "10": "D",
+        "11": "A",
+        "12": "B",
+        "13": "A",
+        "14": "D",
+        "15": "B",
+        "16": "D",
+        "17": "A",
+        "18": "C",
+        "19": "A",
+        "20": "C",
+        "21": "C",
+        "22": "D",
+        "23": "C",
+        "24": "B",
+        "25": "C",
+        "26": "B",
+        "27": "A",
+        "28": "D",
+        "29": "B",
+        "30": "C",
+        "31": "D",
+        "32": "B",
+        "33": "C",
+        "34": "A",
+        "35": "C",
+        "36": "B",
+        "37": "D",
+        "38": "C",
+        "39": "D",
+        "40": "B"
+      }
+    },
+    {
+      "label": "F12 Prova M4",
+      "source": "F12",
+      "page": 15,
+      "specialties": [
+        "Endocrinologia",
+        "Otorrinolaringologia"
+      ],
+      "values": {
+        "1": "C",
+        "2": "A",
+        "3": "B",
+        "4": "D",
+        "5": "C",
+        "6": "C",
+        "7": "D",
+        "8": "B",
+        "9": "A",
+        "10": "B",
+        "11": "D",
+        "12": "B",
+        "13": "A",
+        "14": "C",
+        "15": "B",
+        "16": "B",
+        "17": "B",
+        "18": "B",
+        "19": "B",
+        "20": "D",
+        "21": "C",
+        "22": "A",
+        "23": "B",
+        "24": "A",
+        "25": "B",
+        "26": "B",
+        "27": "C",
+        "28": "B",
+        "29": "C",
+        "30": "A",
+        "31": "A",
+        "32": "B",
+        "33": "B",
+        "34": "D",
+        "35": "A",
+        "36": "B",
+        "37": "B",
+        "38": "D",
+        "39": "C",
+        "40": "C"
+      }
+    },
+    {
+      "label": "F13 Prova M3 2022 2",
+      "source": "F13",
+      "page": 1,
+      "specialties": [
+        "Neurologia",
+        "Oftalmologia"
+      ],
+      "values": {
+        "1": "B",
+        "2": "C",
+        "3": "A",
+        "4": "D",
+        "5": "D",
+        "6": "A",
+        "7": "D",
+        "8": "C",
+        "9": "C",
+        "10": "C",
+        "11": "B",
+        "12": "D",
+        "13": "B",
+        "14": "A",
+        "15": "C",
+        "16": "B",
+        "17": "C",
+        "18": "D",
+        "19": "A",
+        "20": "A",
+        "21": "C",
+        "22": "A",
+        "23": "D",
+        "24": "D",
+        "25": "D",
+        "26": "C",
+        "27": "B",
+        "28": "D",
+        "29": "C",
+        "30": "A",
+        "31": "B",
+        "32": "C",
+        "33": "D",
+        "34": "D",
+        "35": "A",
+        "36": "D",
+        "37": "B",
+        "38": "C",
+        "39": "D",
+        "40": "B"
+      }
+    }
+  ],
+  "keytextsets": [
+    {
+      "label": "F06 Quadro de respostas M4",
+      "specialty": "Neurologia",
+      "values": {
+        "8": "D — Efeito expansivo.",
+        "9": "D — Lobos temporais e frontais.",
+        "10": "A — Próstata."
+      }
+    },
+    {
+      "label": "F06 Quadro de respostas M4",
+      "specialty": "Endocrinologia",
+      "values": {
+        "1": "a — Impossibilidade de correção das hiperglicemias pontuais (a foto associa esse texto a B).",
+        "2": "a — C-H-D-E-A-F-B-G.",
+        "3": "c — Insulina asparte na bomba para basal-bolus.",
+        "4": "c — Glucagon IM 1 mg nas hipoglicemias severas com perda de consciência.",
+        "5": "b — Nova PAAF guiada por US após 90 dias.",
+        "6": "a — Apenas a afirmativa II correta.",
+        "7": "a — Bócio nodular.",
+        "11": "A — TSH aumentado, T4 livre diminuído, anti-TPO e antitireoglobulina.",
+        "12": "C — Calcitonina.",
+        "34": "D — LADA.",
+        "35": "C — Diminuição da densidade mineral óssea.",
+        "36": "A — Parâmetros clínicos na reposição de glicocorticoide.",
+        "37": "A — TSH entre 4–6 mUI/L.",
+        "38": "D — Repetir PAAF.",
+        "39": "C — Medicamentosa.",
+        "40": "D — Empagliflozina e rosuvastatina."
+      }
+    },
+    {
+      "label": "F06 Quadro de respostas M4",
+      "specialty": "Otorrinolaringologia",
+      "values": {
+        "13": "A — ASO (ASLO).",
+        "14": "B — Abscesso subperiosteal orbitário.",
+        "15": "B — Dosagem de cloro e sódio no suor.",
+        "16": "D — Músculo cricoaritenoideo posterior.",
+        "17": "A — Adenoidectomia.",
+        "18": "B — Células ciliadas externas.",
+        "19": "C — Laringoscopia direta com biópsia excisional transoral.",
+        "20": "B — VPPB.",
+        "21": "D — Dix-Hallpike e Epley.",
+        "22": "C — Pedir TC; nasoangiofibroma juvenil.",
+        "23": "B — Hipertrofia de adenoide/amígdalas/conchas e rinite alérgica.",
+        "24": "C — Pólipo de prega vocal.",
+        "25": "D — Perfuração de membrana timpânica seca.",
+        "26": "A — Traqueostomia sob anestesia local e biópsia.",
+        "27": "C — Laringomalácia.",
+        "28": "A — Tumor maligno do seio maxilar esquerdo.",
+        "29": "B — Cisto tireoglosso.",
+        "30": "D — Tratamento cirúrgico.",
+        "31": "C — Pedir TC; nasoangiofibroma juvenil.",
+        "32": "B — Tumor de Warthin.",
+        "33": "C — Carcinoma mucoepidermoide é o maligno mais frequente da parótida."
+      }
+    }
+  ],
+  "references": {
+    "Neurologia": [
+      [
+        "Crises de ausência e tratamento de crises epilépticas",
+        "NICE NG217",
+        "https://www.nice.org.uk/guidance/ng217/chapter/treating-epileptic-seizures-in-children-young-people-and-adults"
+      ],
+      [
+        "Classificação atual das crises",
+        "ILAE 2025",
+        "https://www.ilae.org/guidelines/definition-and-classification/updated-classification-of-epileptic-seizures-2025"
+      ],
+      [
+        "Migrânea sem aura",
+        "ICHD 3",
+        "https://ichd-3.org/1-migraine/1-1-migraine-without-aura/"
+      ],
+      [
+        "Padrão clínico facioescapuloumeral",
+        "Estudo clínico sobre FSHD2",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2974464/"
+      ],
+      [
+        "Neuropatologia de Alzheimer",
+        "National Institute on Aging",
+        "https://www.nia.nih.gov/health/alzheimers-disease-fact-sheet"
+      ],
+      [
+        "Isquemia retiniana transitória e urgência de avaliação",
+        "American Heart Association",
+        "https://professional.heart.org/en/science-news/Management-of-Central-Retinal-Artery-Occlusion/commentary"
+      ],
+      [
+        "Fatores associados à esclerose múltipla",
+        "NINDS",
+        "https://www.ninds.nih.gov/sites/default/files/2025-05/multiple-sclerosis-hope-through-research.pdf"
+      ],
+      [
+        "Doença de Marchiafava Bignami",
+        "Relato de caso com revisão",
+        "https://pubmed.ncbi.nlm.nih.gov/37559750/"
+      ],
+      [
+        "Alvos de estimulação cerebral profunda",
+        "NINDS",
+        "https://www.ninds.nih.gov/sites/default/files/documents/dbs-pd_pdf-finalrev2_061319_508c.pdf"
+      ],
+      [
+        "TCE grave e monitorização de PIC",
+        "Brain Trauma Foundation, 4ª edição",
+        "https://braintrauma.org/coma/guidelines/severe-tbi"
+      ],
+      [
+        "Glasgow convencional e GCS-P",
+        "Glasgow Coma Scale",
+        "https://www.glasgowcomascale.org/what-is-gcs-p/"
+      ],
+      [
+        "Cauda equina",
+        "American Association of Neurological Surgeons",
+        "https://www.aans.org/patients/conditions-treatments/cauda-equina-syndrome/"
+      ],
+      [
+        "Hérnia discal",
+        "American Association of Neurological Surgeons",
+        "https://www.aans.org/patients/conditions-treatments/herniated-disc/"
+      ],
+      [
+        "Estimulação pedunculopontina e freezing: estudo de viabilidade",
+        "Molina et al., estudo clínico, 2021",
+        "https://pubmed.ncbi.nlm.nih.gov/33732122/"
+      ],
+      [
+        "Embriologia do sistema nervoso: consulta dos trechos imprecisos",
+        "UNSW Embryology",
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Neural_System_Development"
+      ]
+    ],
+    "Otorrinolaringologia": [
+      [
+        "Apneia do sono e repercussões cardiovasculares",
+        "NHLBI",
+        "https://www.nhlbi.nih.gov/health/sleep-apnea/living-with"
+      ]
+    ],
+    "Oftalmologia": [
+      [
+        "Retinopatia diabética: tratamento e rastreio",
+        "American Diabetes Association, Standards of Care 2026, seção 12",
+        "https://doi.org/10.2337/dc26-s012"
+      ],
+      [
+        "Exposição à solda/fotoceratite",
+        "American Academy of Ophthalmology, EyeWiki",
+        "https://eyewiki.aao.org/Photokeratitis"
+      ],
+      [
+        "Lesão química ocular",
+        "American Academy of Ophthalmology, EyeWiki",
+        "https://eyewiki.aao.org/Chemical_(alkali_and_acid)_injury_of_the_conjunctiva_and_cornea"
+      ],
+      [
+        "Trauma ocular penetrante",
+        "American Academy of Ophthalmology, EyeWiki",
+        "https://eyewiki.aao.org/Ocular_Penetrating_and_Perforating_Injuries"
+      ],
+      [
+        "Conjuntivites",
+        "American Academy of Ophthalmology, EyeWiki",
+        "https://eyewiki.aao.org/Conjunctivitis"
+      ],
+      [
+        "Ceratite bacteriana e lentes de contato",
+        "American Academy of Ophthalmology, EyeWiki",
+        "https://eyewiki.org/Bacterial_Keratitis"
+      ],
+      [
+        "Uveíte anterior e HLA-B27",
+        "American Academy of Ophthalmology, EyeWiki",
+        "https://eyewiki.aao.org/HLA-B27_associated_acute_anterior_uveitis"
+      ],
+      [
+        "Fechamento angular e iridotomia",
+        "American Academy of Ophthalmology, EyeWiki",
+        "https://eyewiki.aao.org/Primary_vs._Secondary_Angle_Closure_Glaucoma"
+      ],
+      [
+        "Ações dos músculos extraoculares",
+        "American Academy of Ophthalmology, EyeWiki",
+        "https://eyewiki.org/Extraocular_Muscles"
+      ]
+    ]
+  }
+}

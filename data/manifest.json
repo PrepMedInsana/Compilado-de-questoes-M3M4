@@ -1,0 +1,560 @@
+{
+  "schemaVersion": 1,
+  "title": "PrepMed Insano",
+  "total": 1343,
+  "objective": 586,
+  "discursive": 757,
+  "imageCount": 39,
+  "revision": "2026-10-03-provao",
+  "specialties": [
+    {
+      "id": "neuro",
+      "label": "Neuroclínica e neurocirurgia",
+      "rotation": "M3",
+      "count": 929,
+      "file": "neuro.json"
+    },
+    {
+      "id": "endocrino",
+      "label": "Endocrinologia",
+      "rotation": "M4",
+      "count": 131,
+      "file": "endocrino.json"
+    },
+    {
+      "id": "otorrino",
+      "label": "Otorrino e cabeça e pescoço",
+      "rotation": "M4",
+      "count": 196,
+      "file": "otorrino.json"
+    },
+    {
+      "id": "oftalmo",
+      "label": "Oftalmologia",
+      "rotation": "M3",
+      "count": 87,
+      "file": "oftalmo.json"
+    }
+  ],
+  "reviewNotes": {
+    "R01": {
+      "title": "Glasgow: pontuação e componente não testável",
+      "text": "Na resposta verbal, palavras inapropriadas valem 3, sons incompreensíveis 2. No intubado, registrar verbal não testável (NT), junto de E e M; não presumir V1 nem calcular total comparável ao de um exame completo. Na classificação convencional, TCE grave corresponde a Glasgow 3–8, moderado 9–12 e leve 13–15, após estabilização.",
+      "refs": [
+        "Glasgow Coma Scale — instrumento de avaliação e FAQ; Brain Trauma Foundation"
+      ],
+      "urls": [
+        "https://www.glasgowcomascale.org/downloads/GCS-Assessment-Aid.pdf",
+        "https://www.glasgowcomascale.org/faq/"
+      ]
+    },
+    "R02": {
+      "title": "Condutas de TCE e PIC: limites das respostas antigas",
+      "text": "Priorizar estabilização, oxigenação, prevenção de hipotensão e lesões tratáveis. No TCE grave, PIC sustentada acima de 22 mmHg orienta tratamento. Hiperventilação prolongada profilática não é recomendada; uso temporário de resgate exige contexto e monitorização. Corticoides não são tratamento de TCE grave. Nem todo TCE exige profilaxia anticonvulsivante, monitorização invasiva ou craniectomia; a decisão depende do quadro. A regra isolada de PIC >20 por 15 minutos não define indicação universal de cirurgia.",
+      "refs": [
+        "Brain Trauma Foundation — Guidelines for Severe TBI"
+      ],
+      "urls": [
+        "https://braintrauma.org/coma/guidelines/severe-tbi"
+      ]
+    },
+    "R03": {
+      "title": "ASIA/ISNCSCI: sensibilidade, força, miótomos e AIS",
+      "text": "Sensibilidade: 0 ausente, 1 alterada, 2 normal; 1 não significa apenas formigamento. Força: 0 sem contração, 1 contração palpável/visível, 2 movimento com gravidade eliminada, 3 contra gravidade, 4 contra resistência, 5 normal. Músculos-chave: C5 flexores do cotovelo; C6 extensores do punho; C7 extensores do cotovelo; C8 flexores dos dedos; T1 abdutores do dedo mínimo; L2 flexores do quadril; L3 extensores do joelho; L4 dorsiflexores do tornozelo; L5 extensor longo do hálux; S1 flexores plantares. AIS A exige ausência de preservação sensitiva e motora sacral S4–S5, incluindo pressão anal profunda/contração anal voluntária. Diferenciar B/C requer critérios de preservação sacral e motora; C/D dependem da proporção de músculos-chave abaixo do nível neurológico com força ≥3. A classificação não equivale a demonstrar transecção anatômica.",
+      "refs": [
+        "ASIA — ISNCSCI, versões 2019 e 2026 e recursos oficiais"
+      ],
+      "urls": [
+        "https://asia-spinalinjury.org/wp-content/uploads/2026/07/ASIA-ISCOS-Worksheet-Both-Sides_4_2026.pdf",
+        "https://asia-spinalinjury.org/isncsci-resources/",
+        "https://www.asia-spinalinjury.org/wp-content/uploads/2019/04/ASIA-ISCOS-IntlWorksheet_2019.pdf"
+      ]
+    },
+    "R04": {
+      "title": "Trauma raquimedular e metilprednisolona",
+      "text": "Metilprednisolona em altas doses não deve ser apresentada como conduta obrigatória ou rotineira. A diretriz AO Spine de 2017 descreve infusão por 24 horas iniciada em até 8 horas como opção em adultos selecionados e recomenda não oferecer infusão por 48 horas. Os esquemas e prazos dos relatos antigos precisam desse contexto. O retorno do reflexo bulbocavernoso não exclui lesão medular nem comprova recuperação motora.",
+      "refs": [
+        "AO Spine — guideline on methylprednisolone; ASIA/ISNCSCI"
+      ],
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/29164025/",
+        "https://asia-spinalinjury.org/isncsci-resources/"
+      ]
+    },
+    "R05": {
+      "title": "Respostas anatômicas e localizatórias contraditórias",
+      "text": "Há respostas a revisar nos roteiros: Romberg positivo/ataxia sensitiva não localizam automaticamente no cerebelo; paralisia facial central supranuclear costuma comprometer o andar inferior contralateral; o reflexo fotomotor faz conexão na região pré-tectal, sem depender de sinapse no corpo geniculado lateral; quadrantanopsia homônima direita implica lesão retroquiasmática esquerda. Não confundir fórnix com sua comissura, fibras de associação com comissurais, nem giro pré-central com pós-central. Nomes incompletos de tratos e instruções de deslocamento de eletrodo exigem confirmação anatômica.",
+      "refs": [
+        "Comparação das respostas contraditórias dos próprios roteiros; revisão anatômica editorial"
+      ],
+      "urls": []
+    },
+    "R06": {
+      "title": "Tumores: epidemiologia e classificação integrada",
+      "text": "Distinguir intracraniano, intraparenquimatoso, primário, metastático e maligno. Meningioma é tipicamente extra-axial; sua indicação como tumor primário intraparenquimatoso é incoerente. Os roteiros divergem sobre frequência de tumores pediátricos e confundem supratentorial com suprasselar. Na classificação OMS 2021, oligodendroglioma exige IDH mutante e codeleção 1p/19q; glioblastoma do adulto é IDH não mutante. \"Glioblastoma de baixo grau\" não é uma denominação adequada. Tratamento, prognóstico e seguimento não podem ser reduzidos a idade, tamanho ou um esquema fixo para todos.",
+      "refs": [
+        "EANO — molecular diagnostic tools for WHO 2021 classification"
+      ],
+      "urls": [
+        "https://doi.org/10.1093/neuonc/noad100"
+      ]
+    },
+    "R07": {
+      "title": "Profilaxia de crises em tumor sem crise prévia",
+      "text": "A diretriz SNO/EANO não recomenda anticonvulsivante profilático rotineiro no paciente com tumor cerebral que nunca teve crise. Desvio da linha média isolado não valida a indicação afirmada no roteiro. Diferenciar profilaxia de tratamento de epilepsia e de decisões perioperatórias específicas.",
+      "refs": [
+        "SNO/EANO — anticonvulsant prophylaxis guideline, 2021"
+      ],
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34174071/"
+      ]
+    },
+    "R08": {
+      "title": "HSA, aneurismas e MAV: respostas simplificadas",
+      "text": "Nimodipina enteral precoce na HSA aneurismática favorece prevenção de isquemia tardia; Doppler transcraniano é vigilância, não prevenção por si só. Investigar HSA com TC negativa depende do tempo, qualidade do exame e suspeita clínica. Tratamento de aneurisma não roto depende do risco individual, não de cortes rígidos de tamanho. Os critérios clássicos de Spetzler–Martin são tamanho, eloquência e drenagem venosa profunda; o roteiro mistura fatores de outros modelos. Hemiparesia isolada não define com certeza a artéria de uma MAV. Corticoide não integra tratamento rotineiro de HSA aneurismática.",
+      "refs": [
+        "AHA/ASA — guideline for aneurysmal SAH, 2023; comparação entre os roteiros"
+      ],
+      "urls": [
+        "https://professional.heart.org/en/science-news/2023-guideline-for-the-management-of-patients-with-aneurysmal-subarachnoid-hemorrhage/top-things-to-know"
+      ]
+    },
+    "R09": {
+      "title": "Abscessos, antimicrobianos e corticoides",
+      "text": "Na diretriz ESCMID, corticoide é reservado a sintomas graves por edema perifocal ou ameaça de herniação; não é adjuvante automático para qualquer abscesso. Escolha de antimicrobianos, duração, drenagem e culturas depende da origem, imunidade, anatomia e evolução. Um corte de tamanho isolado ou esquema único não substitui esses critérios.",
+      "refs": [
+        "ESCMID — brain abscess guideline, 2024"
+      ],
+      "urls": [
+        "https://doi.org/10.1016/j.cmi.2023.08.016"
+      ]
+    },
+    "R10": {
+      "title": "Neurocisticercose calcificada",
+      "text": "Lesões exclusivamente calcificadas não contêm parasita viável e não indicam antiparasitário. Na forma parenquimatosa calcificada, tratar os sintomas, inclusive crises; corticoide não é rotineiro. Formas viáveis, ventriculares ou subaracnóideas têm manejo próprio. Não transferir albendazol/corticoide automaticamente para a criança com calcificações descrita no caso.",
+      "refs": [
+        "IDSA/ASTMH — neurocysticercosis guideline"
+      ],
+      "urls": [
+        "https://www.idsociety.org/practice-guideline/neurocysticercosis/"
+      ]
+    },
+    "R11": {
+      "title": "Hipófise: apoplexia, gestação e remissão de Cushing",
+      "text": "Apoplexia hipofisária é emergência neuroendócrina: estabilização, avaliação de insuficiência adrenal, glucocorticoide quando indicado e discussão urgente com especialistas; descompressão depende da gravidade/evolução visual e neurológica. Gestação não torna obrigatória cirurgia de todo adenoma/prolactinoma; planejamento depende de tipo, tamanho, extensão e resposta terapêutica. Na doença de Cushing, não usar o valor incerto \"5 mcg/L\" como critério universal de remissão: interpretar cortisol sérico, momento da coleta e tratamento perioperatório.",
+      "refs": [
+        "Society for Endocrinology — pituitary apoplexy; Pituitary Society — prolactinoma consensus; Endocrine Society — Cushing"
+      ],
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/27935817/",
+        "https://www.nature.com/articles/s41574-023-00886-5",
+        "https://www.endocrine.org/clinical-practice-guidelines/treatment-of-cushing-syndrome"
+      ]
+    },
+    "R12": {
+      "title": "Hidrocefalia: volume, índices, gravidade e derivações",
+      "text": "Diferenciar volume total de LCR (aproximadamente 150 mL no adulto) de produção diária (cerca de 500 mL). Na avaliação de ventriculomegalia, índice de Evans ≥0,30 é um parâmetro de imagem, sem estabelecer diagnóstico isoladamente; os cortes de 30–50% do roteiro estão incorretos. Hipertensão intracraniana e hidrocefalia não são sinônimos. A tríade de Cushing inclui alteração/irregularidade respiratória, não obrigatoriamente hiperventilação. Dilatação ex vacuo acompanha perda de parênquima. Um teste de compressão/reenchimento do reservatório não encerra a investigação de disfunção de DVP.",
+      "refs": [
+        "Japanese Society of Normal Pressure Hydrocephalus — guideline 2021; comparação entre os roteiros"
+      ],
+      "urls": [
+        "https://www.jstage.jst.go.jp/article/nmc/61/2/61_st.2020-0292/_article"
+      ]
+    },
+    "R13": {
+      "title": "Funcional: alvos e evidência",
+      "text": "Os relatos descrevem regras didáticas de seleção de alvos, não critérios suficientes de indicação cirúrgica. DBS no núcleo pedunculopontino para freezing/quedas e intervenções para depressão não devem ser apresentadas como tratamento padrão universal. Não confundir cingulotomia anterior ablativa com estimulação da região subgenual. Efeito da DBS não se reduz à regra \"frequência alta inibe, baixa excita\" para qualquer situação. Reavaliar elegibilidade, técnica e alvo individualmente.",
+      "refs": [
+        "Limitação e divergências dos relatos; não foi feita revisão integral de neurocirurgia funcional"
+      ],
+      "urls": []
+    },
+    "R14": {
+      "title": "Demais respostas parciais ou excessivamente categóricas",
+      "text": "Respostas sobre tratamento conservador/cirúrgico, intervalos fixos, classificação de fraturas e prognóstico foram preservadas como lembranças de veteranos. Termos incorretos ou informações insuficientes são sinalizados no próprio item. Ausência de déficit, idade ou uma imagem isolada não bastam para fechar indicação. Não considerar uma resposta parcial como gabarito integral do caso.",
+      "refs": [
+        "Limitações documentais das fontes"
+      ],
+      "urls": []
+    },
+    "R15": {
+      "title": "Classificação tomográfica de Marshall: seis classes",
+      "text": "I: sem lesão intracraniana visível. II: cisternas presentes, desvio de linha média de 0–5 mm e sem lesão hiperdensa/mista >25 cm³. III: cisternas comprimidas/ausentes, desvio de 0–5 mm e sem lesão >25 cm³. IV: desvio >5 mm, sem lesão >25 cm³. V: lesão de massa evacuada cirurgicamente. VI: lesão de massa >25 cm³ não evacuada. A lista I–IV do roteiro é incompleta; \"linha média centrada\" não é requisito absoluto da classe III.",
+      "refs": [
+        "Brain Trauma Foundation — Early Indicators of Prognosis; Marshall et al."
+      ],
+      "urls": [
+        "https://braintrauma.org/s/Prognosis.pdf"
+      ]
+    },
+    "R16": {
+      "title": "Fraturas: processo transverso e cunha vertebral",
+      "text": "Na classificação AO Spine toracolombar, uma fratura isolada do processo transverso é A0, enquanto A1 descreve fratura em cunha/compressão do corpo vertebral. Não transferir a classificação antiga de Magerl para a atual sem identificar o sistema e o segmento da coluna.",
+      "refs": [
+        "AO Surgery Reference — A0 e A1"
+      ],
+      "urls": [
+        "https://surgeryreference.aofoundation.org/spine/trauma/thoracolumbar/a0/definition",
+        "https://surgeryreference.aofoundation.org/spine/trauma/thoracolumbar/a1/definition"
+      ]
+    },
+    "R17": {
+      "title": "Tremor essencial: nome do medicamento",
+      "text": "Os termos \"pirimidina\" e \"pirimidona\" registrados nos relatos parecem erros de transcrição. O medicamento é primidona. Propranolol e primidona têm eficácia estabelecida no tratamento do tremor essencial, conforme a diretriz da American Academy of Neurology.",
+      "refs": [
+        "AAN — Evidence-based guideline update: Treatment of essential tremor (2011)"
+      ],
+      "urls": [
+        "https://www.neurology.org/doi/10.1212/WNL.0b013e318236f0fd"
+      ]
+    },
+    "R18": {
+      "title": "Espondilodiscite e causas infecciosas",
+      "text": "Tuberculose e brucelose são diagnósticos relevantes conforme epidemiologia e exposição. Não apresentar brucelose como a causa universalmente mais comum: a osteomielite vertebral bacteriana é frequentemente causada por Staphylococcus aureus. A investigação deve considerar culturas, imagem, riscos individuais e patógenos específicos.",
+      "refs": [
+        "IDSA — diretriz de osteomielite vertebral nativa"
+      ],
+      "urls": [
+        "https://www.idsociety.org/practice-guideline/vertebral-osteomyelitis/"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "F01",
+      "name": "2019.docx"
+    },
+    {
+      "id": "F02",
+      "name": "Cópia de Mega PROVÃO M3 E M4 .docx"
+    },
+    {
+      "id": "F03",
+      "name": "Cópia de QUESTÕES PROVÃO M3&M4 RESPOSTAS.pdf"
+    },
+    {
+      "id": "F04",
+      "name": "Cópia de Questões de neuro (provão_).docx"
+    },
+    {
+      "id": "F05",
+      "name": "FISIOLOGIA DA HIPOFISE.pdf"
+    },
+    {
+      "id": "F06",
+      "name": "Mega PROVÃO M3 E M4 .pdf"
+    },
+    {
+      "id": "F07",
+      "name": "PROVÃO M3 (1).pdf"
+    },
+    {
+      "id": "F08",
+      "name": "PROVÃO M4 (1).pdf"
+    },
+    {
+      "id": "F09",
+      "name": "Prova 4º ano - Dez 2021 - M3.pdf"
+    },
+    {
+      "id": "F10",
+      "name": "Provao Neuro-Oftalmo Outubro-2019.pdf"
+    },
+    {
+      "id": "F11",
+      "name": "Provao m3 e m4.pdf"
+    },
+    {
+      "id": "F12",
+      "name": "Provão M3 e M4 [4º ano] - Neuro, oftalmo, otorrino e endócrino.pdf"
+    },
+    {
+      "id": "F13",
+      "name": "Provão M3 e M4.pdf"
+    },
+    {
+      "id": "F14",
+      "name": "Provão 1 - M4.pdf"
+    },
+    {
+      "id": "F15",
+      "name": "Provão 2-  M3.pdf"
+    },
+    {
+      "id": "F16",
+      "name": "Provão- M3.pdf"
+    },
+    {
+      "id": "F17",
+      "name": "QUESTÕES OTORRINOLARINGOLOGIA.docx"
+    },
+    {
+      "id": "F18",
+      "name": "Teste _ DM1.pdf"
+    },
+    {
+      "id": "F19",
+      "name": "provão M4 10-2019-20191004112256.pdf"
+    },
+    {
+      "id": "F20",
+      "name": "Teste _ DM1 (1).pdf"
+    },
+    {
+      "id": "F21",
+      "name": "FISIOLOGIA DA HIPOFISE (1).pdf"
+    },
+    {
+      "id": "F22",
+      "name": "QUESTÕES OTORRINOLARINGOLOGIA.pdf"
+    },
+    {
+      "id": "F23",
+      "name": "QUESTÕES OTORRINOLARINGOLOGIA (1).docx"
+    },
+    {
+      "id": "F24",
+      "name": "Questões - ORL.pdf"
+    },
+    {
+      "id": "F25",
+      "name": "PROVA OTORRINO TURMA 68 F.pdf"
+    },
+    {
+      "id": "F26",
+      "name": "PROVA OTORRINO - Turma B.pdf"
+    },
+    {
+      "id": "F27",
+      "name": "PROVA OBJETIVA OTORRINO.pdf"
+    },
+    {
+      "id": "F28",
+      "name": "N1 2025-1.pdf"
+    },
+    {
+      "id": "F29",
+      "name": "DISCUSS_O DE PROVA - GRUPO IRM_O.pdf"
+    },
+    {
+      "id": "F30",
+      "name": "Questões antigas Oftalmo (Compilado).pdf"
+    },
+    {
+      "id": "F31",
+      "name": "PROVA ORAL GRUPO C 2024.pdf"
+    },
+    {
+      "id": "F32",
+      "name": "respostas oftalmo2.docx"
+    },
+    {
+      "id": "F33",
+      "name": "QUESTÕES PARA REVISÃO - PROVA OFTALMO.pdf"
+    },
+    {
+      "id": "F34",
+      "name": "PROVA OFTALMO.pdf"
+    },
+    {
+      "id": "F35",
+      "name": "PROVA OFTALMO TURMA 68C.jpg"
+    },
+    {
+      "id": "F36",
+      "name": "Prova Oftalmo E1.pdf"
+    },
+    {
+      "id": "F37",
+      "name": "PROVA OFTALMO – TURMA B (67).pdf"
+    },
+    {
+      "id": "F38",
+      "name": "Prova - Oftalmo.pdf"
+    },
+    {
+      "id": "F39",
+      "name": "-Template- Prova Oftalmo B21.pdf"
+    },
+    {
+      "id": "F40",
+      "name": "Questões Prova Oral.docx(1).pdf"
+    },
+    {
+      "id": "F41",
+      "name": "Questões Prova Oral de Neurocirurgia(1).pdf"
+    },
+    {
+      "id": "F42",
+      "name": "Questões Prova Oral de Neurocirurgia(1).docx"
+    },
+    {
+      "id": "F43",
+      "name": "QUESTÕES PROVA ORAL - GRUPO C(1).pdf"
+    },
+    {
+      "id": "F44",
+      "name": "Questoes neurocirurgia - Grupo D (1).pdf"
+    },
+    {
+      "id": "F45",
+      "name": "Questões de neurocirurgia grupo A(1).pdf"
+    },
+    {
+      "id": "F46",
+      "name": "Questões - Prova oral.docx(1).pdf"
+    },
+    {
+      "id": "F47",
+      "name": "Questões - Prova oral(1).docx"
+    },
+    {
+      "id": "F48",
+      "name": "Prova Osvaldo 6ano.docx(1).pdf"
+    },
+    {
+      "id": "F49",
+      "name": "Prova Osvaldo 6ano.docx(1).docx"
+    },
+    {
+      "id": "F50",
+      "name": "Prova oral(1).pdf"
+    },
+    {
+      "id": "F51",
+      "name": "prova oral novo.docx(1).pdf"
+    },
+    {
+      "id": "F52",
+      "name": "PROVA ORAL NEUROCX GRUPO E(1).docx"
+    },
+    {
+      "id": "F53",
+      "name": "PROVA ORAL NEUROCIRURGIA - Compilado(1).pdf"
+    },
+    {
+      "id": "F54",
+      "name": "PROVA ORAL NEUROCIRURGIA - Compilado.docx(1).pdf"
+    },
+    {
+      "id": "F55",
+      "name": "PROVA ORAL NEURO 67(1).docx"
+    },
+    {
+      "id": "F56",
+      "name": "PROVA ORAL GRUPO G.docx"
+    },
+    {
+      "id": "F57",
+      "name": "Prova Oral - Neurocirurgia 2021.pdf"
+    },
+    {
+      "id": "F58",
+      "name": "PROVA ORAL - COMPILADO EAD.docx"
+    },
+    {
+      "id": "F59",
+      "name": "Prova Neurocirurgia Grupo C.pdf"
+    },
+    {
+      "id": "F60",
+      "name": "Prova de Neurocirurgia.docx.pdf"
+    },
+    {
+      "id": "F61",
+      "name": "Apostila Neuro&Oftalmo (1).pdf"
+    },
+    {
+      "id": "F62",
+      "name": "WhatsApp Image 2026-10-03 at 07.25.55.jpeg"
+    },
+    {
+      "id": "F63",
+      "name": "WhatsApp Image 2026-10-03 at 07.25.551.jpeg"
+    },
+    {
+      "id": "F64",
+      "name": "WhatsApp Image 2026-10-03 at 07.25.56.jpeg"
+    },
+    {
+      "id": "F65",
+      "name": "WhatsApp Image 2026-10-03 at 07.25.561.jpeg"
+    },
+    {
+      "id": "F66",
+      "name": "WhatsApp Image 2026-10-03 at 07.25.5610.jpeg"
+    },
+    {
+      "id": "F67",
+      "name": "WhatsApp Image 2026-10-03 at 07.25.567.jpeg"
+    },
+    {
+      "id": "F68",
+      "name": "WhatsApp Image 2026-10-03 at 07.25.568.jpeg"
+    },
+    {
+      "id": "F69",
+      "name": "WhatsApp Image 2026-10-03 at 07.25.569.jpeg"
+    },
+    {
+      "id": "F70",
+      "name": "WhatsApp Image 2026-10-03 at 07.25.57.jpeg"
+    },
+    {
+      "id": "F71",
+      "name": "WhatsApp Image 2026-10-03 at 07.25.578.jpeg"
+    },
+    {
+      "id": "F72",
+      "name": "WhatsApp Image 2026-10-03 at 13.40.26.jpeg"
+    },
+    {
+      "id": "F73",
+      "name": "WhatsApp Image 2026-10-03 at 13.40.27.jpeg"
+    },
+    {
+      "id": "F74",
+      "name": "WhatsApp Image 2026-10-03 at 13.40.271.jpeg"
+    },
+    {
+      "id": "F75",
+      "name": "IMG-20261003-WA0064.jpg"
+    },
+    {
+      "id": "F76",
+      "name": "IMG-20261003-WA0069.jpg"
+    },
+    {
+      "id": "F77",
+      "name": "IMG-20261003-WA0068.jpg"
+    },
+    {
+      "id": "F78",
+      "name": "IMG-20261003-WA0067.jpg"
+    },
+    {
+      "id": "F79",
+      "name": "IMG-20261003-WA0066.jpg"
+    },
+    {
+      "id": "F80",
+      "name": "IMG-20261003-WA0065.jpg"
+    },
+    {
+      "id": "F81",
+      "name": "IMG-20261003-WA0074.jpg"
+    },
+    {
+      "id": "F82",
+      "name": "IMG-20261003-WA0073.jpg"
+    },
+    {
+      "id": "F83",
+      "name": "IMG-20261003-WA0072.jpg"
+    },
+    {
+      "id": "F84",
+      "name": "IMG-20261003-WA0071.jpg"
+    }
+  ]
+}
